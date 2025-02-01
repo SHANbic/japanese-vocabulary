@@ -270,8 +270,8 @@ import sophie from "../assets/sophie-voyage-rouge.png";
           const question = questions.pop();
           if (question) {
             currentQuestion = question;
-            kanji.innerText = question.kanji || ".";
-            kana.innerText = question.kana;
+            kanji.innerText = question.kanji.replace(/\s/g, "") || ".";
+            kana.innerText = question.kana.replace(/\s/g, "");
             translation.innerText = question.translation;
 
             if (!question.kanji) {
