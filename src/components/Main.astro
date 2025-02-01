@@ -1,0 +1,339 @@
+---
+import sophie from "../assets/sophie-voyage-rouge.png";
+---
+
+<div id="container">
+  <main>
+    <div id="sophie-wrapper">
+      <img src={sophie.src} alt="sophie-objectif-japon" fetchpriority="high" />
+    </div>
+
+    <div class="box">
+      <div id="select-box">
+        <p class="box-title">Quel module souhaitez-vous réviser&nbsp;?</p>
+        <div class="module-select">
+          <div class="btn fetcher" id="1">Module 1</div>
+          <div class="btn disabled" id="2">Module 2</div>
+          <div class="btn disabled" id="3">Module 3</div>
+          <div class="btn disabled" id="4">Module 4</div>
+
+          <div class="btn disabled" id="all">Tous les modules</div>
+        </div>
+      </div>
+      <div id="guess-box">
+        <div
+          style="display: flex; justify-content: space-between; align-items: center;"
+        >
+          <p id="backButton">&#128072; Retour</p>
+          <p>plus que <span id="remainingQuestions"></span></p>
+        </div>
+
+        <p class="box-title">Comprenez-vous le sens de ceci?</p>
+
+        <div class="guess-wrapper">
+          <div class="current-guess">
+            <p id="kanji"></p>
+            <p id="kana"></p>
+            <p id="translation"></p>
+          </div>
+
+          <div
+            style="display: flex; justify-content: space-between; align-items: center; gap: 2rem; margin-top: 2rem;"
+          >
+            <div id="help" class="btn large">&#128078;</div>
+            <div id="next" class="btn large">&#128077;</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <style>
+      p {
+        margin: 0;
+        padding: 0;
+      }
+
+      #container {
+        font-family: Inter, Roboto, "Helvetica Neue", "Arial Nova",
+          "Nimbus Sans", Arial, sans-serif;
+        height: 100%;
+      }
+
+      main {
+        height: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 1rem;
+      }
+
+      .box {
+        transform: translateY(-1rem);
+        padding: 16px;
+        background: rgba(255, 255, 255, 1);
+        border-radius: 16px;
+        border: 1px solid white;
+        box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.25);
+      }
+
+      #sophie-wrapper {
+        display: flex;
+        justify-content: center;
+        padding: 1rem;
+      }
+
+      #sophie-wrapper img {
+        width: clamp(200px, 100%, 400px);
+        height: auto;
+      }
+
+      .box-title {
+        text-align: center;
+        font-size: 1rem;
+        font-weight: bold;
+        margin-bottom: 1rem;
+      }
+
+      .module-select {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+      }
+
+      .btn {
+        user-select: none;
+        color: #52000a;
+        background-color: #ffedeb;
+        text-align: center;
+        padding: 1rem;
+        border-radius: 0.25rem;
+        transition: all 0.2s;
+      }
+      .btn:not(.disabled):hover {
+        cursor: pointer;
+        transform: scale(1.03);
+      }
+      .btn:not(.disabled):active {
+        transform: scale(1);
+      }
+
+      .btn.disabled {
+        background-color: #f0f0f0;
+        color: #a0a0a0;
+        cursor: not-allowed;
+      }
+
+      .btn.large {
+        font-size: 1.25rem;
+        width: 100%;
+        background-color: antiquewhite;
+      }
+
+      #guess-box {
+        display: none;
+      }
+
+      #backButton {
+        content: "";
+        display: block;
+        color: black;
+        text-align: left;
+        border-radius: 0.25rem;
+        transition: all 0.2s;
+      }
+      #backButton:hover {
+        cursor: pointer;
+        text-decoration: underline;
+      }
+
+      #remainingQuestions {
+        font-weight: bold;
+      }
+
+      .current-guess {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+      }
+
+      #kanji {
+        line-height: 1;
+        font-size: 2.5rem;
+        font-weight: bold;
+        text-align: center;
+      }
+
+      #kana {
+        position: relative;
+      }
+
+      #kana {
+        line-height: 1;
+        font-size: 1.5rem;
+        font-weight: bold;
+        text-align: center;
+      }
+
+      #translation {
+        line-height: 1;
+        font-size: 1rem;
+        font-weight: bold;
+        text-align: center;
+      }
+
+      #all {
+        grid-column-end: span 2;
+      }
+
+      @media (max-width: 600px) {
+        #kanji {
+          font-size: 1.25rem;
+        }
+
+        #kana {
+          font-size: 1rem;
+        }
+
+        #translation {
+          font-size: 0.825rem;
+        }
+
+        .box-title {
+          margin-top: 1rem;
+        }
+      }
+    </style>
+
+    <script>
+      import { fetchModule, fetchModules } from "../../lib/supabase";
+      import { shuffle, obfuscateString, pause } from "../../lib/utils";
+      import type { IVocabulary } from "../types";
+
+      // DOM elements
+      const fetchers = document.querySelectorAll(".fetcher");
+      const selectBox = document.getElementById("select-box")!;
+      const guessBox = document.getElementById("guess-box")!;
+      const backButton = document.getElementById("backButton")!;
+      const kanji = document.getElementById("kanji")!;
+      const kana = document.getElementById("kana")!;
+      const translation = document.getElementById("translation")!;
+      const remainingQuestions = document.getElementById("remainingQuestions")!;
+      const helpBtn = document.getElementById("help")!;
+      const nextBtn = document.getElementById("next")!;
+
+      // Event listeners
+      fetchers.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          handleModuleSelection(btn.id);
+        });
+      });
+      helpBtn.addEventListener("click", () => {
+        if (!currentQuestion) return;
+        handleHelpBtnClick();
+      });
+      nextBtn.addEventListener("click", async () => {
+        if (isRevealing || !currentQuestion) return;
+        isRevealing = true;
+        const shouldPause = guessLevel < maxGuessLevel;
+        for (let i = guessLevel; i < maxGuessLevel; i++) {
+          handleHelpBtnClick();
+        }
+        console.log(guessLevel, maxGuessLevel);
+        if (shouldPause && currentQuestion?.translation) {
+          await pause(Math.max(1000, currentQuestion?.translation.length * 75));
+        }
+
+        populateQuestion();
+      });
+      backButton.addEventListener("click", () => {
+        selectBox.style.display = "block";
+        guessBox.style.display = "none";
+      });
+
+      // State
+      let guessLevel = 0;
+      let currentQuestion: IVocabulary | null = null;
+      let questions: IVocabulary[] | null = null;
+      let isRevealing = false;
+      const maxGuessLevel = 4;
+
+      // Functions
+      function populateQuestion(): void {
+        isRevealing = false;
+        guessLevel = 0;
+        kanji.style.opacity = "1";
+        kana.style.opacity = "1";
+        translation.style.opacity = "1";
+        if (questions) {
+          remainingQuestions.textContent = questions.length.toString();
+          const question = questions.pop();
+          if (question) {
+            currentQuestion = question;
+            kanji.innerText = question.kanji || ".";
+            kana.innerText = question.kana;
+            translation.innerText = question.translation;
+
+            if (!question.kanji) {
+              kanji.style.opacity = "0";
+              guessLevel = 1;
+            }
+
+            if (question.kana) {
+              kana.style.opacity = question.kanji ? "0" : "1";
+            }
+            if (question.translation) {
+              translation.style.opacity = "0";
+            }
+          }
+        }
+      }
+      function cleanQuestions(): void {
+        currentQuestion = null;
+        guessLevel = 0;
+        questions = null;
+        remainingQuestions.textContent = "";
+        kanji.innerText = "";
+        kana.innerText = "";
+        translation.innerText = "";
+      }
+      function handleHelpBtnClick() {
+        if (!currentQuestion || guessLevel >= maxGuessLevel) return;
+        if (guessLevel === 0) {
+          kana.style.opacity = "1";
+          guessLevel++;
+        } else if (guessLevel === 1) {
+          translation.style.opacity = "1";
+          translation.innerText = currentQuestion?.translation.replace(
+            /[\p{L}\p{N}]/gimu,
+            "-"
+          );
+          guessLevel++;
+        } else if (guessLevel === 2) {
+          translation.innerText = obfuscateString(currentQuestion.translation);
+          guessLevel++;
+        } else {
+          translation.innerText = currentQuestion?.translation;
+          guessLevel++;
+        }
+      }
+
+      // API calls
+      async function handleModuleSelection(module: string): Promise<void> {
+        cleanQuestions();
+        let data = null;
+        if (module === "all") {
+          data = await fetchModules();
+        } else {
+          data = await fetchModule(module);
+        }
+        if (data) {
+          selectBox.style.display = "none";
+          guessBox.style.display = "block";
+        }
+        questions = shuffle(data);
+        populateQuestion();
+      }
+    </script>
+  </main>
+</div>
