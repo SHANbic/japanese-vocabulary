@@ -239,7 +239,6 @@ import sophie from "../assets/sophie-voyage-rouge.png";
         for (let i = guessLevel; i < maxGuessLevel; i++) {
           handleHelpBtnClick();
         }
-        console.log(guessLevel, maxGuessLevel);
         if (shouldPause && currentQuestion?.translation) {
           await pause(Math.max(1000, currentQuestion?.translation.length * 75));
         }
@@ -270,8 +269,8 @@ import sophie from "../assets/sophie-voyage-rouge.png";
           const question = questions.pop();
           if (question) {
             currentQuestion = question;
-            kanji.innerText = question.kanji.replace(/\s/g, "") || ".";
-            kana.innerText = question.kana.replace(/\s/g, "");
+            kanji.innerText = question.kanji?.replace(/\s/g, "") || ".";
+            kana.innerText = question.kana?.replace(/\s/g, "");
             translation.innerText = question.translation;
 
             if (!question.kanji) {
