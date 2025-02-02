@@ -8,7 +8,7 @@ const supabase = createClient(supabaseUrl, supabaseKey!);
 export async function fetchModule(module: string): Promise<IVocabulary[]> {
   const { data: requestedModule, error } = await supabase
     .from("japanese-vocabulary")
-    .select("*")
+    .select("kanji,kana,translation")
     .eq("module", module);
 
   if (error) {
@@ -20,7 +20,7 @@ export async function fetchModule(module: string): Promise<IVocabulary[]> {
 export async function fetchModules(): Promise<IVocabulary[]> {
   const { data: allModules, error } = await supabase
     .from("japanese-vocabulary")
-    .select("*");
+    .select("kanji,kana,translation");
 
   if (error) {
     console.error(error);

@@ -1,11 +1,17 @@
 ---
+import { Image } from "astro:assets";
 import sophie from "../assets/sophie-voyage-rouge.png";
 ---
 
 <div id="container">
   <main>
     <div id="sophie-wrapper">
-      <img src={sophie.src} alt="sophie-objectif-japon" fetchpriority="high" />
+      <Image
+        src={sophie}
+        alt="sophie-objectif-japon"
+        fetchpriority="high"
+        loading={"eager"}
+      />
     </div>
 
     <div class="box">
@@ -47,6 +53,13 @@ import sophie from "../assets/sophie-voyage-rouge.png";
       </div>
     </div>
 
+    <a
+      target="_blank"
+      referrerpolicy="no-referrer"
+      href="https://cours-de-japonais.com/formation-objectif-japon-3/"
+    >
+      <div class="red-cta">Découvrir la formation Objectif Japon!</div>
+    </a>
     <style>
       p {
         margin: 0;
@@ -63,14 +76,14 @@ import sophie from "../assets/sophie-voyage-rouge.png";
         height: 100%;
         max-width: 600px;
         margin: 0 auto;
-        padding: 1rem;
+        padding: 0 1rem;
       }
 
       .box {
         transform: translateY(-1rem);
-        padding: 16px;
+        padding: 1rem;
         background: rgba(255, 255, 255, 1);
-        border-radius: 16px;
+        border-radius: 0.5rem;
         border: 1px solid white;
         box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.25);
       }
@@ -82,7 +95,7 @@ import sophie from "../assets/sophie-voyage-rouge.png";
       }
 
       #sophie-wrapper img {
-        width: clamp(200px, 100%, 400px);
+        width: clamp(150px, 100%, 300px);
         height: auto;
       }
 
@@ -128,6 +141,25 @@ import sophie from "../assets/sophie-voyage-rouge.png";
         background-color: antiquewhite;
       }
 
+      @keyframes countdown {
+        0% {
+          background-position: 0% 0;
+        }
+        100% {
+          background-position: 100% 0;
+        }
+      }
+
+      .countdown {
+        background: linear-gradient(to left, #f5e3ca 50%, #faebd7 50%);
+        background-size: 200% 100%;
+        animation: countdown 10s linear backwards;
+      }
+
+      .next.countdown {
+        animation: countdown 10s linear;
+      }
+
       #guess-box {
         display: none;
       }
@@ -155,6 +187,31 @@ import sophie from "../assets/sophie-voyage-rouge.png";
         justify-content: space-between;
         align-items: center;
         gap: 1rem;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      .red-cta {
+        font-weight: bold;
+        background-color: #b5333f;
+        color: antiquewhite;
+        text-align: center;
+        padding: 1rem 1rem;
+        margin: 0 auto;
+        font-size: 1.5rem;
+        border-radius: 0.25rem;
+        transition: all 0.2s;
+      }
+
+      .red-cta:hover {
+        cursor: pointer;
+        transform: scale(1.03);
+      }
+
+      .red-cta:active {
+        transform: scale(1);
       }
 
       #kanji {
@@ -199,15 +256,30 @@ import sophie from "../assets/sophie-voyage-rouge.png";
           font-size: 0.825rem;
         }
 
+        .module-select {
+          gap: 0.5rem;
+        }
+
+        .box {
+          border-radius: 0.25rem;
+          padding: 0.5rem;
+        }
+
         .box-title {
-          margin-top: 1rem;
+          margin-top: 0.5rem;
+        }
+
+        .red-cta {
+          font-size: 1rem;
+          padding: 0.5rem 0.25rem;
+          line-height: 1.5rem;
         }
       }
     </style>
 
     <script>
       import { fetchModule, fetchModules } from "../../lib/supabase";
-      import { shuffle, obfuscateString, pause } from "../../lib/utils";
+      import { shuffle, obfuscateString } from "../../lib/utils";
       import type { IVocabulary } from "../types";
 
       // DOM elements
@@ -233,17 +305,21 @@ import sophie from "../assets/sophie-voyage-rouge.png";
         handleHelpBtnClick();
       });
       nextBtn.addEventListener("click", async () => {
-        if (isRevealing || !currentQuestion) return;
-        isRevealing = true;
-        const shouldPause = guessLevel < maxGuessLevel;
-        for (let i = guessLevel; i < maxGuessLevel; i++) {
-          handleHelpBtnClick();
+        if (!currentQuestion) {
+          return;
+        } else if (guessLevel === maxGuessLevel || timeoutId) {
+          populateQuestion();
+        } else {
+          nextBtn.innerHTML = "&#128073";
+          nextBtn.classList.add("countdown");
+          for (let i = guessLevel; i < maxGuessLevel; i++) {
+            handleHelpBtnClick();
+          }
+          timeoutId = setTimeout(() => {
+            console.log("i am here");
+            populateQuestion();
+          }, 10000);
         }
-        if (shouldPause && currentQuestion?.translation) {
-          await pause(Math.max(1000, currentQuestion?.translation.length * 75));
-        }
-
-        populateQuestion();
       });
       backButton.addEventListener("click", () => {
         selectBox.style.display = "block";
@@ -254,12 +330,17 @@ import sophie from "../assets/sophie-voyage-rouge.png";
       let guessLevel = 0;
       let currentQuestion: IVocabulary | null = null;
       let questions: IVocabulary[] | null = null;
-      let isRevealing = false;
+      let timeoutId: ReturnType<typeof setTimeout> | null = null;
       const maxGuessLevel = 4;
 
       // Functions
       function populateQuestion(): void {
-        isRevealing = false;
+        if (timeoutId) {
+          clearTimeout(timeoutId);
+        }
+        nextBtn.classList.remove("countdown");
+        nextBtn.innerHTML = "&#128077";
+        timeoutId = null;
         guessLevel = 0;
         kanji.style.opacity = "1";
         kana.style.opacity = "1";
