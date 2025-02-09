@@ -1,0 +1,3061 @@
+[
+    {
+        "id": "1",
+        "kanji": "Nom du pays + 語",
+        "kana": "Nom du pays + ご",
+        "translation": "Former la langue d'un pays",
+        "module": "1"
+    },
+    {
+        "id": "2",
+        "kanji": "Nom du pays + 人",
+        "kana": "Nom du pays + じん",
+        "translation": "Former la nationalité",
+        "module": "1"
+    },
+    {
+        "id": "3",
+        "kanji": "XX 歳",
+        "kana": "XX さい ",
+        "translation": "XX ans (l'âge)",
+        "module": "1"
+    },
+    {
+        "id": "4",
+        "kanji": "",
+        "kana": "XXX から きました",
+        "translation": "Je viens de XXX",
+        "module": "1"
+    },
+    {
+        "id": "5",
+        "kanji": "",
+        "kana": "くん",
+        "translation": "Suffixe après un prénom masculin",
+        "module": "1"
+    },
+    {
+        "id": "6",
+        "kanji": "",
+        "kana": "さま",
+        "translation": "personne envers laquelle on a beaucoup de respect",
+        "module": "1"
+    },
+    {
+        "id": "7",
+        "kanji": "",
+        "kana": "さん",
+        "translation": "Monsieur, Madame, Mademoiselle",
+        "module": "1"
+    },
+    {
+        "id": "8",
+        "kanji": "",
+        "kana": "ちゃん",
+        "translation": "Suffixe après un prénom féminin",
+        "module": "1"
+    },
+    {
+        "id": "9",
+        "kanji": "アジア人",
+        "kana": "アジアじん",
+        "translation": "Asiatique",
+        "module": "1"
+    },
+    {
+        "id": "10",
+        "kanji": "",
+        "kana": "あたし",
+        "translation": "Je (pour les femmes jeunes, familier)",
+        "module": "1"
+    },
+    {
+        "id": "11",
+        "kanji": "",
+        "kana": "あなた",
+        "translation": "Toi, tu",
+        "module": "1"
+    },
+    {
+        "id": "13",
+        "kanji": "あの人は誰ですか。",
+        "kana": "あのひとは だれですか。",
+        "translation": " Qui est cette personne ?",
+        "module": "1"
+    },
+    {
+        "id": "14",
+        "kanji": "",
+        "kana": "あのう",
+        "translation": "Euh.... (hésitation)",
+        "module": "1"
+    },
+    {
+        "id": "15",
+        "kanji": "あの人",
+        "kana": "あのひと",
+        "translation": "Cette personne",
+        "module": "1"
+    },
+    {
+        "id": "16",
+        "kanji": "",
+        "kana": "アメリカ",
+        "translation": "Amérique, États-Unis",
+        "module": "1"
+    },
+    {
+        "id": "17",
+        "kanji": "",
+        "kana": "いいですね。",
+        "translation": "C'est bien, c'est super !",
+        "module": "1"
+    },
+    {
+        "id": "18",
+        "kanji": "",
+        "kana": "イギリス",
+        "translation": "Angleterre, Grande-Bretagne",
+        "module": "1"
+    },
+    {
+        "id": "19",
+        "kanji": "医者",
+        "kana": "いしゃ",
+        "translation": "Médecin",
+        "module": "1"
+    },
+    {
+        "id": "20",
+        "kanji": "",
+        "kana": "イタリア",
+        "translation": "Italie",
+        "module": "1"
+    },
+    {
+        "id": "21",
+        "kanji": "一",
+        "kana": "いち",
+        "translation": "1",
+        "module": "1"
+    },
+    {
+        "id": "22",
+        "kanji": "英語",
+        "kana": "えいご",
+        "translation": "La langue anglaise",
+        "module": "1"
+    },
+    {
+        "id": "23",
+        "kanji": "駅員",
+        "kana": "えきいん",
+        "translation": "Employé de gare",
+        "module": "1"
+    },
+    {
+        "id": "24",
+        "kanji": "男",
+        "kana": "おとこ",
+        "translation": "Homme",
+        "module": "1"
+    },
+    {
+        "id": "25",
+        "kanji": "男の人",
+        "kana": "おとこのひと",
+        "translation": "Un homme",
+        "module": "1"
+    },
+    {
+        "id": "26",
+        "kanji": "お名前は",
+        "kana": "おなまえは？",
+        "translation": "Quel est ton nom ?",
+        "module": "1"
+    },
+    {
+        "id": "27",
+        "kanji": "お願いします",
+        "kana": "おねがいします",
+        "translation": "S'il vous plaît",
+        "module": "1"
+    },
+    {
+        "id": "28",
+        "kanji": "",
+        "kana": "おはよう",
+        "translation": "Salut!",
+        "module": "1"
+    },
+    {
+        "id": "29",
+        "kanji": "",
+        "kana": "おはようございます",
+        "translation": "Bonjour (le matin)",
+        "module": "1"
+    },
+    {
+        "id": "30",
+        "kanji": "お前",
+        "kana": "おまえ",
+        "translation": "Tu (familier, un peu vulgaire, vis-à-vis d'une personne inférieure)",
+        "module": "1"
+    },
+    {
+        "id": "31",
+        "kanji": "お休みなさい",
+        "kana": "おやすみなさい",
+        "translation": "Bonne nuit",
+        "module": "1"
+    },
+    {
+        "id": "32",
+        "kanji": "",
+        "kana": "おれ",
+        "translation": "Je (pour les hommes adultes, très familier)",
+        "module": "1"
+    },
+    {
+        "id": "33",
+        "kanji": "女",
+        "kana": "おんな",
+        "translation": "Femme",
+        "module": "1"
+    },
+    {
+        "id": "34",
+        "kanji": "女の人",
+        "kana": "おんなのひと",
+        "translation": "Une femme",
+        "module": "1"
+    },
+    {
+        "id": "35",
+        "kanji": "",
+        "kana": "か",
+        "translation": "Particule de question",
+        "module": "1"
+    },
+    {
+        "id": "36",
+        "kanji": "会社員",
+        "kana": "かいしゃいん",
+        "translation": "Employé d'une compagnie",
+        "module": "1"
+    },
+    {
+        "id": "37",
+        "kanji": "学生",
+        "kana": "がくせい",
+        "translation": "Etudiant",
+        "module": "1"
+    },
+    {
+        "id": "38",
+        "kanji": "歌手",
+        "kana": "かしゅ",
+        "translation": "Chanteur, chanteuse",
+        "module": "1"
+    },
+    {
+        "id": "39",
+        "kanji": "方",
+        "kana": "かた",
+        "translation": "Version polie de 人 （ひと）",
+        "module": "1"
+    },
+    {
+        "id": "40",
+        "kanji": "彼女",
+        "kana": "かのじょ",
+        "translation": "Elle",
+        "module": "1"
+    },
+    {
+        "id": "41",
+        "kanji": "彼",
+        "kana": "かれ",
+        "translation": "Il, lui",
+        "module": "1"
+    },
+    {
+        "id": "42",
+        "kanji": "記者",
+        "kana": "きしゃ",
+        "translation": "Journaliste",
+        "module": "1"
+    },
+    {
+        "id": "43",
+        "kanji": "君",
+        "kana": "きみ",
+        "translation": "Tu (familier)",
+        "module": "1"
+    },
+    {
+        "id": "44",
+        "kanji": "九",
+        "kana": "きゅう・く",
+        "translation": "9",
+        "module": "1"
+    },
+    {
+        "id": "45",
+        "kanji": "教師",
+        "kana": "きょうし",
+        "translation": "Enseignant",
+        "module": "1"
+    },
+    {
+        "id": "46",
+        "kanji": "五",
+        "kana": "ご",
+        "translation": "5",
+        "module": "1"
+    },
+    {
+        "id": "47",
+        "kanji": "",
+        "kana": "ごめんなさい",
+        "translation": "Je suis désolé(e)",
+        "module": "1"
+    },
+    {
+        "id": "48",
+        "kanji": "今日は",
+        "kana": "こんにちは",
+        "translation": "Bonjour (l'après-midi)",
+        "module": "1"
+    },
+    {
+        "id": "49",
+        "kanji": "今晩は",
+        "kana": "こんばんは",
+        "translation": "Bonsoir",
+        "module": "1"
+    },
+    {
+        "id": "50",
+        "kanji": "",
+        "kana": "さようなら",
+        "translation": "Au revoir (adieu)",
+        "module": "1"
+    },
+    {
+        "id": "51",
+        "kanji": "三",
+        "kana": "さん",
+        "translation": "3",
+        "module": "1"
+    },
+    {
+        "id": "52",
+        "kanji": "自己紹介",
+        "kana": "じこしょうかい",
+        "translation": "Présentation personnelle",
+        "module": "1"
+    },
+    {
+        "id": "53",
+        "kanji": "仕事",
+        "kana": "しごと",
+        "translation": "Travail",
+        "module": "1"
+    },
+    {
+        "id": "54",
+        "kanji": "",
+        "kana": "じゃありません - ではありません",
+        "translation": "Ne pas être",
+        "module": "1"
+    },
+    {
+        "id": "55",
+        "kanji": "社員",
+        "kana": "しゃいん",
+        "translation": "Employé",
+        "module": "1"
+    },
+    {
+        "id": "56",
+        "kanji": "十",
+        "kana": "じゅう",
+        "translation": "10",
+        "module": "1"
+    },
+    {
+        "id": "57",
+        "kanji": "小学生",
+        "kana": "しょうがくせい",
+        "translation": "Ecolier (à l'école primaire)",
+        "module": "1"
+    },
+    {
+        "id": "58",
+        "kanji": "女優",
+        "kana": "じょゆう",
+        "translation": "Actrice",
+        "module": "1"
+    },
+    {
+        "id": "59",
+        "kanji": "スポーツ選手",
+        "kana": "スポーツせんしゅ",
+        "translation": "Athlète",
+        "module": "1"
+    },
+    {
+        "id": "60",
+        "kanji": "",
+        "kana": "すみません",
+        "translation": "Pardon / Excusez-moi",
+        "module": "1"
+    },
+    {
+        "id": "61",
+        "kanji": "千",
+        "kana": "せん",
+        "translation": "1000",
+        "module": "1"
+    },
+    {
+        "id": "62",
+        "kanji": "先生",
+        "kana": "せんせい",
+        "translation": "Professeur",
+        "module": "1"
+    },
+    {
+        "id": "63",
+        "kanji": "",
+        "kana": "そうですか。",
+        "translation": " Ah bon !",
+        "module": "1"
+    },
+    {
+        "id": "64",
+        "kanji": "大学生",
+        "kana": "だいがくせい",
+        "translation": "Etudiant à l'université",
+        "module": "1"
+    },
+    {
+        "id": "65",
+        "kanji": "誰",
+        "kana": "だれ",
+        "translation": "Qui ?",
+        "module": "1"
+    },
+    {
+        "id": "66",
+        "kanji": "調理師",
+        "kana": "ちょうりし",
+        "translation": "Cuisinier",
+        "module": "1"
+    },
+    {
+        "id": "67",
+        "kanji": "",
+        "kana": "ツアーガイド",
+        "translation": "Guide touristique",
+        "module": "1"
+    },
+    {
+        "id": "68",
+        "kanji": "店員",
+        "kana": "てんいん",
+        "translation": "Employé de magasin",
+        "module": "1"
+    },
+    {
+        "id": "69",
+        "kanji": "ドイツ語",
+        "kana": "ドイツご",
+        "translation": "La langue allemande",
+        "module": "1"
+    },
+    {
+        "id": "70",
+        "kanji": "",
+        "kana": "どういたしまして",
+        "translation": "De rien / Je vous en prie",
+        "module": "1"
+    },
+    {
+        "id": "71",
+        "kanji": "",
+        "kana": "どうぞよろしく [おねがいします]",
+        "translation": "Merci d'avance pour notre bonne relation",
+        "module": "1"
+    },
+    {
+        "id": "72",
+        "kanji": "",
+        "kana": "どこ",
+        "translation": "Où ?",
+        "module": "1"
+    },
+    {
+        "id": "73",
+        "kanji": "どこから来ましたか。",
+        "kana": "どこからきました か。",
+        "translation": "D'où viens-tu ?",
+        "module": "1"
+    },
+    {
+        "id": "74",
+        "kanji": "七",
+        "kana": "なな・しち",
+        "translation": "7",
+        "module": "1"
+    },
+    {
+        "id": "75",
+        "kanji": "名前",
+        "kana": "なまえ",
+        "translation": "Nom",
+        "module": "1"
+    },
+    {
+        "id": "76",
+        "kanji": "何歳 / [お]いくつ ",
+        "kana": "なんさい / [お]いくつ",
+        "translation": "Quel âge ?",
+        "module": "1"
+    },
+    {
+        "id": "77",
+        "kanji": "二",
+        "kana": "に",
+        "translation": "2",
+        "module": "1"
+    },
+    {
+        "id": "78",
+        "kanji": "日本語",
+        "kana": "にほんご",
+        "translation": "La langue japonaise",
+        "module": "1"
+    },
+    {
+        "id": "79",
+        "kanji": "",
+        "kana": "の",
+        "translation": "Particule d'appartenance",
+        "module": "1"
+    },
+    {
+        "id": "80",
+        "kanji": "",
+        "kana": "は",
+        "translation": "Particule de thème",
+        "module": "1"
+    },
+    {
+        "id": "81",
+        "kanji": "歯医者",
+        "kana": "はいしゃ",
+        "translation": "Dentiste",
+        "module": "1"
+    },
+    {
+        "id": "82",
+        "kanji": "俳優",
+        "kana": "はいゆう",
+        "translation": "Acteur",
+        "module": "1"
+    },
+    {
+        "id": "83",
+        "kanji": "初めまして",
+        "kana": "はじめまして",
+        "translation": "Enchanté(e)",
+        "module": "1"
+    },
+    {
+        "id": "84",
+        "kanji": "二十歳",
+        "kana": "はたち",
+        "translation": "20 ans",
+        "module": "1"
+    },
+    {
+        "id": "85",
+        "kanji": "八",
+        "kana": "はち",
+        "translation": "8",
+        "module": "1"
+    },
+    {
+        "id": "86",
+        "kanji": "花屋",
+        "kana": "はなや",
+        "translation": "Magasin de fleurs",
+        "module": "1"
+    },
+    {
+        "id": "87",
+        "kanji": "人",
+        "kana": "ひと",
+        "translation": "Une personne",
+        "module": "1"
+    },
+    {
+        "id": "88",
+        "kanji": "百",
+        "kana": "ひゃく",
+        "translation": "100",
+        "module": "1"
+    },
+    {
+        "id": "89",
+        "kanji": "フランス から 来ました。",
+        "kana": "フランス から きました。",
+        "translation": "Je viens de France.",
+        "module": "1"
+    },
+    {
+        "id": "90",
+        "kanji": "フランス語",
+        "kana": "フランスご",
+        "translation": "La langue française",
+        "module": "1"
+    },
+    {
+        "id": "91",
+        "kanji": "文化",
+        "kana": "ぶんか",
+        "translation": "Culture",
+        "module": "1"
+    },
+    {
+        "id": "92",
+        "kanji": "僕",
+        "kana": "ぼく",
+        "translation": "Je (pour les hommes jeunes, familier)",
+        "module": "1"
+    },
+    {
+        "id": "93",
+        "kanji": "また今度",
+        "kana": "また こんど ",
+        "translation": "A la prochaine",
+        "module": "1"
+    },
+    {
+        "id": "94",
+        "kanji": "また明日",
+        "kana": "またあした",
+        "translation": "A demain",
+        "module": "1"
+    },
+    {
+        "id": "95",
+        "kanji": "",
+        "kana": "またね",
+        "translation": "A plus, à bientôt",
+        "module": "1"
+    },
+    {
+        "id": "96",
+        "kanji": "また来週",
+        "kana": "またらいしゅう",
+        "translation": "A la semaine prochaine",
+        "module": "1"
+    },
+    {
+        "id": "97",
+        "kanji": "万",
+        "kana": "まん",
+        "translation": "10000",
+        "module": "1"
+    },
+    {
+        "id": "98",
+        "kanji": "皆さん",
+        "kana": "みなさん",
+        "translation": "Tout le monde, vous tous (quand on s'adresse à des gens)",
+        "module": "1"
+    },
+    {
+        "id": "99",
+        "kanji": "",
+        "kana": "も",
+        "translation": "Particule \"aussi\"",
+        "module": "1"
+    },
+    {
+        "id": "100",
+        "kanji": "薬剤師",
+        "kana": "やくざいし",
+        "translation": "Pharmacien",
+        "module": "1"
+    },
+    {
+        "id": "101",
+        "kanji": "四",
+        "kana": "よん・し",
+        "translation": "4",
+        "module": "1"
+    },
+    {
+        "id": "102",
+        "kanji": "例",
+        "kana": "れい",
+        "translation": "Exemple",
+        "module": "1"
+    },
+    {
+        "id": "103",
+        "kanji": "六",
+        "kana": "ろく",
+        "translation": "6",
+        "module": "1"
+    },
+    {
+        "id": "104",
+        "kanji": "私",
+        "kana": "わたくし",
+        "translation": "Je (formel)",
+        "module": "1"
+    },
+    {
+        "id": "105",
+        "kanji": "私",
+        "kana": "わたし",
+        "translation": "Je, moi",
+        "module": "1"
+    },
+    {
+        "id": "106",
+        "kanji": "私 は ソフィー です。",
+        "kana": "わたし は ソフィー です。",
+        "translation": "Je suis Sophie.",
+        "module": "1"
+    },
+    {
+        "id": "107",
+        "kanji": "私 は 日本人じゃありません。",
+        "kana": "わたし は にほんじんじゃありません。",
+        "translation": "Je ne suis pas Japonais(e).",
+        "module": "1"
+    },
+    {
+        "id": "108",
+        "kanji": "私 は 日本人 です。",
+        "kana": "わたし は にほんじん です。",
+        "translation": "Je suis Japonais(e).",
+        "module": "1"
+    },
+    {
+        "id": "109",
+        "kanji": "私達",
+        "kana": "わたしたち",
+        "translation": "Nous",
+        "module": "1"
+    },
+    {
+        "id": "110",
+        "kanji": "[が] 多い",
+        "kana": "[が] おおい",
+        "translation": "Nombreux",
+        "module": "1"
+    },
+    {
+        "id": "111",
+        "kanji": "[が] 少ない",
+        "kana": "[が] すくない",
+        "translation": " Peu nombreux",
+        "module": "1"
+    },
+    {
+        "id": "112",
+        "kanji": "秋",
+        "kana": "あき",
+        "translation": "Automne",
+        "module": "1"
+    },
+    {
+        "id": "113",
+        "kanji": "新しい",
+        "kana": "あたらしい",
+        "translation": "Nouveau, neuf",
+        "module": "1"
+    },
+    {
+        "id": "114",
+        "kanji": "暑い / 熱い",
+        "kana": "あつい",
+        "translation": "Chaud",
+        "module": "1"
+    },
+    {
+        "id": "115",
+        "kanji": "あの本",
+        "kana": "あのほん",
+        "translation": "Ce livre (loin des deux)",
+        "module": "1"
+    },
+    {
+        "id": "116",
+        "kanji": "",
+        "kana": "あれ",
+        "translation": "Ceci (loin des deux)",
+        "module": "1"
+    },
+    {
+        "id": "117",
+        "kanji": "安全",
+        "kana": "あんぜん",
+        "translation": "Sûr",
+        "module": "1"
+    },
+    {
+        "id": "118",
+        "kanji": "",
+        "kana": "いいです。",
+        "translation": "C'est bien.",
+        "module": "1"
+    },
+    {
+        "id": "119",
+        "kanji": "池",
+        "kana": "いけ",
+        "translation": "Étang",
+        "module": "1"
+    },
+    {
+        "id": "120",
+        "kanji": "美しい",
+        "kana": "うつくしい",
+        "translation": "Beau, magnifique",
+        "module": "1"
+    },
+    {
+        "id": "121",
+        "kanji": "海",
+        "kana": "うみ",
+        "translation": "Mer, océan",
+        "module": "1"
+    },
+    {
+        "id": "122",
+        "kanji": "煩い",
+        "kana": "うるさい",
+        "translation": "Bruyant",
+        "module": "1"
+    },
+    {
+        "id": "123",
+        "kanji": "美味しい",
+        "kana": "おいしい",
+        "translation": "Délicieux",
+        "module": "1"
+    },
+    {
+        "id": "124",
+        "kanji": "大きい",
+        "kana": "おおきい",
+        "translation": "Grand",
+        "module": "1"
+    },
+    {
+        "id": "125",
+        "kanji": "",
+        "kana": "おしゃれ",
+        "translation": "Élégant, chic",
+        "module": "1"
+    },
+    {
+        "id": "126",
+        "kanji": "お城",
+        "kana": "おしろ",
+        "translation": "Château",
+        "module": "1"
+    },
+    {
+        "id": "127",
+        "kanji": "お寺",
+        "kana": "おてら",
+        "translation": "Temple bouddhique",
+        "module": "1"
+    },
+    {
+        "id": "128",
+        "kanji": "面白い",
+        "kana": "おもしろい",
+        "translation": "Intéressant, rigolo",
+        "module": "1"
+    },
+    {
+        "id": "129",
+        "kanji": "",
+        "kana": "が",
+        "translation": "Mais (opposer 2 adjectifs)",
+        "module": "1"
+    },
+    {
+        "id": "130",
+        "kanji": "傘",
+        "kana": "かさ",
+        "translation": "Parapluie",
+        "module": "1"
+    },
+    {
+        "id": "131",
+        "kanji": "川",
+        "kana": "かわ",
+        "translation": "Rivière",
+        "module": "1"
+    },
+    {
+        "id": "132",
+        "kanji": "",
+        "kana": "かわいい",
+        "translation": "Mignon, adorable",
+        "module": "1"
+    },
+    {
+        "id": "133",
+        "kanji": "木",
+        "kana": "き",
+        "translation": "Arbre",
+        "module": "1"
+    },
+    {
+        "id": "134",
+        "kanji": "危険",
+        "kana": "きけん",
+        "translation": "Dangereux",
+        "module": "1"
+    },
+    {
+        "id": "135",
+        "kanji": "汚い",
+        "kana": "きたない",
+        "translation": "Sale",
+        "module": "1"
+    },
+    {
+        "id": "136",
+        "kanji": "教会",
+        "kana": "きょうかい",
+        "translation": "Église",
+        "module": "1"
+    },
+    {
+        "id": "137",
+        "kanji": "興味深い",
+        "kana": "きょうみぶかい",
+        "translation": "Très intéressant",
+        "module": "1"
+    },
+    {
+        "id": "138",
+        "kanji": "",
+        "kana": "きれい",
+        "translation": "Beau, propre",
+        "module": "1"
+    },
+    {
+        "id": "139",
+        "kanji": "国",
+        "kana": "くに",
+        "translation": "Pays",
+        "module": "1"
+    },
+    {
+        "id": "140",
+        "kanji": "公園",
+        "kana": "こうえん",
+        "translation": "Parc",
+        "module": "1"
+    },
+    {
+        "id": "141",
+        "kanji": "",
+        "kana": "ごしゅっしんはどちらですか。",
+        "translation": "Quelle est votre origine ? (de manière très polie)",
+        "module": "1"
+    },
+    {
+        "id": "142",
+        "kanji": "この本",
+        "kana": "このほん",
+        "translation": "Ce livre (près du locuteur)",
+        "module": "1"
+    },
+    {
+        "id": "143",
+        "kanji": "",
+        "kana": "これ",
+        "translation": "Ceci (près du locuteur)",
+        "module": "1"
+    },
+    {
+        "id": "144",
+        "kanji": "寒い",
+        "kana": "さむい",
+        "translation": "Froid (météo)",
+        "module": "1"
+    },
+    {
+        "id": "145",
+        "kanji": "辞書",
+        "kana": "じしょ",
+        "translation": "Dictionnaire",
+        "module": "1"
+    },
+    {
+        "id": "146",
+        "kanji": "静か",
+        "kana": "しずか",
+        "translation": "Calme",
+        "module": "1"
+    },
+    {
+        "id": "147",
+        "kanji": "静かじゃありません。",
+        "kana": "しずかじゃありません。",
+        "translation": "Ce n'est pas calme.",
+        "module": "1"
+    },
+    {
+        "id": "148",
+        "kanji": "静かです。",
+        "kana": "しずかです。",
+        "translation": "C'est calme.",
+        "module": "1"
+    },
+    {
+        "id": "149",
+        "kanji": "自然",
+        "kana": "しぜん",
+        "translation": "Nature",
+        "module": "1"
+    },
+    {
+        "id": "150",
+        "kanji": "島",
+        "kana": "しま",
+        "translation": "Île",
+        "module": "1"
+    },
+    {
+        "id": "151",
+        "kanji": "首都",
+        "kana": "しゅと",
+        "translation": "Capitale",
+        "module": "1"
+    },
+    {
+        "id": "152",
+        "kanji": "神社",
+        "kana": "じんじゃ",
+        "translation": "Sanctuaire shintô",
+        "module": "1"
+    },
+    {
+        "id": "153",
+        "kanji": "",
+        "kana": "すばらしい",
+        "translation": "Magnifique, splendide",
+        "module": "1"
+    },
+    {
+        "id": "154",
+        "kanji": "狭い",
+        "kana": "せまい",
+        "translation": "Étroit",
+        "module": "1"
+    },
+    {
+        "id": "155",
+        "kanji": "",
+        "kana": "そして",
+        "translation": "Et, puis, ensuite",
+        "module": "1"
+    },
+    {
+        "id": "156",
+        "kanji": "その本",
+        "kana": "そのほん",
+        "translation": "Ce livre (près de l'interlocuteur)",
+        "module": "1"
+    },
+    {
+        "id": "157",
+        "kanji": "",
+        "kana": "それ",
+        "translation": "Ceci (près de l'interlocuteur)",
+        "module": "1"
+    },
+    {
+        "id": "158",
+        "kanji": "田",
+        "kana": "た",
+        "translation": "Rizière",
+        "module": "1"
+    },
+    {
+        "id": "159",
+        "kanji": "",
+        "kana": "たいくつ",
+        "translation": "Ennuyeux, monotone",
+        "module": "1"
+    },
+    {
+        "id": "160",
+        "kanji": "高い",
+        "kana": "たかい",
+        "translation": "Cher, élevé, haut",
+        "module": "1"
+    },
+    {
+        "id": "161",
+        "kanji": "建物",
+        "kana": "たてもの",
+        "translation": "Bâtiment",
+        "module": "1"
+    },
+    {
+        "id": "162",
+        "kanji": "小さい",
+        "kana": "ちいさい",
+        "translation": "Petit",
+        "module": "1"
+    },
+    {
+        "id": "163",
+        "kanji": "小さいです",
+        "kana": "ちいさいです。",
+        "translation": "C'est petit.",
+        "module": "1"
+    },
+    {
+        "id": "164",
+        "kanji": "小さくないです。",
+        "kana": "ちいさくないです。",
+        "translation": "Ce n'est pas petit.",
+        "module": "1"
+    },
+    {
+        "id": "165",
+        "kanji": "地図",
+        "kana": "ちず",
+        "translation": "Carte, plan",
+        "module": "1"
+    },
+    {
+        "id": "166",
+        "kanji": "",
+        "kana": "つまらない",
+        "translation": "Ennuyeux, sans intérêt",
+        "module": "1"
+    },
+    {
+        "id": "167",
+        "kanji": "",
+        "kana": "どうですか。",
+        "translation": "C'est comment ?",
+        "module": "1"
+    },
+    {
+        "id": "168",
+        "kanji": "所",
+        "kana": "ところ",
+        "translation": "Lieu, endroit",
+        "module": "1"
+    },
+    {
+        "id": "169",
+        "kanji": "都市",
+        "kana": "とし",
+        "translation": "Grande ville, cité",
+        "module": "1"
+    },
+    {
+        "id": "170",
+        "kanji": "",
+        "kana": "どちら",
+        "translation": "Lequel ? (parmi un choix de 2) + Version polie de どれ et どこ",
+        "module": "1"
+    },
+    {
+        "id": "171",
+        "kanji": "",
+        "kana": "どの",
+        "translation": "Quel objet ? (parmi un choix de plusieurs)",
+        "module": "1"
+    },
+    {
+        "id": "172",
+        "kanji": "",
+        "kana": "どれ",
+        "translation": "Lequel ? (parmi un choix de 3 ou plus)",
+        "module": "1"
+    },
+    {
+        "id": "173",
+        "kanji": "",
+        "kana": "どんな",
+        "translation": "Quel genre de... ?",
+        "module": "1"
+    },
+    {
+        "id": "174",
+        "kanji": "⾧い",
+        "kana": "ながい",
+        "translation": "Long",
+        "module": "1"
+    },
+    {
+        "id": "175",
+        "kanji": "夏",
+        "kana": "なつ",
+        "translation": "Été",
+        "module": "1"
+    },
+    {
+        "id": "176",
+        "kanji": "何",
+        "kana": "なに、なん",
+        "translation": "Quoi ?",
+        "module": "1"
+    },
+    {
+        "id": "177",
+        "kanji": "橋",
+        "kana": "はし",
+        "translation": "Pont",
+        "module": "1"
+    },
+    {
+        "id": "178",
+        "kanji": "場所",
+        "kana": "ばしょ",
+        "translation": "Lieu, endroit",
+        "module": "1"
+    },
+    {
+        "id": "179",
+        "kanji": "林",
+        "kana": "はやし",
+        "translation": "Bosquet, bois",
+        "module": "1"
+    },
+    {
+        "id": "180",
+        "kanji": "春",
+        "kana": "はる",
+        "translation": "Printemps",
+        "module": "1"
+    },
+    {
+        "id": "181",
+        "kanji": "低い",
+        "kana": "ひくい",
+        "translation": "Bas",
+        "module": "1"
+    },
+    {
+        "id": "182",
+        "kanji": "広い",
+        "kana": "ひろい",
+        "translation": "Vaste, spacieux",
+        "module": "1"
+    },
+    {
+        "id": "183",
+        "kanji": "富士山",
+        "kana": "ふじさん",
+        "translation": "Le Mont Fuji",
+        "module": "1"
+    },
+    {
+        "id": "184",
+        "kanji": "冬",
+        "kana": "ふゆ",
+        "translation": "Hiver",
+        "module": "1"
+    },
+    {
+        "id": "185",
+        "kanji": "古い",
+        "kana": "ふるい",
+        "translation": "Vieux, ancien (pas pour les gens)",
+        "module": "1"
+    },
+    {
+        "id": "186",
+        "kanji": "",
+        "kana": "へいぼん",
+        "translation": "Banal, médiocre",
+        "module": "1"
+    },
+    {
+        "id": "187",
+        "kanji": "便利",
+        "kana": "べんり",
+        "translation": "Pratique",
+        "module": "1"
+    },
+    {
+        "id": "188",
+        "kanji": "本",
+        "kana": "ほん",
+        "translation": "Livre",
+        "module": "1"
+    },
+    {
+        "id": "189",
+        "kanji": "町",
+        "kana": "まち",
+        "translation": "Ville, quartier",
+        "module": "1"
+    },
+    {
+        "id": "190",
+        "kanji": "周り",
+        "kana": "まわり",
+        "translation": "Alentours, pourtour",
+        "module": "1"
+    },
+    {
+        "id": "191",
+        "kanji": "湖",
+        "kana": "みずうみ",
+        "translation": "Lac",
+        "module": "1"
+    },
+    {
+        "id": "192",
+        "kanji": "昔",
+        "kana": "むかし",
+        "translation": "Autrefois, ancien temps",
+        "module": "1"
+    },
+    {
+        "id": "193",
+        "kanji": "村",
+        "kana": "むら",
+        "translation": "Village",
+        "module": "1"
+    },
+    {
+        "id": "194",
+        "kanji": "目湯らしい",
+        "kana": "めずらしい",
+        "translation": "Rare, insolite",
+        "module": "1"
+    },
+    {
+        "id": "195",
+        "kanji": "森",
+        "kana": "もり",
+        "translation": "Forêt",
+        "module": "1"
+    },
+    {
+        "id": "196",
+        "kanji": "安い",
+        "kana": "やすい",
+        "translation": "Bon marché",
+        "module": "1"
+    },
+    {
+        "id": "197",
+        "kanji": "山",
+        "kana": "やま",
+        "translation": "Montagne",
+        "module": "1"
+    },
+    {
+        "id": "198",
+        "kanji": "有名",
+        "kana": "ゆうめい",
+        "translation": "Célèbre",
+        "module": "1"
+    },
+    {
+        "id": "199",
+        "kanji": "良くないです。",
+        "kana": "よくないです。",
+        "translation": "Ce n'est pas bien.",
+        "module": "1"
+    },
+    {
+        "id": "200",
+        "kanji": "私",
+        "kana": "わたし",
+        "translation": "Je, moi",
+        "module": "1"
+    },
+    {
+        "id": "201",
+        "kanji": "私の国",
+        "kana": "わたしのくに",
+        "translation": "Mon pays",
+        "module": "1"
+    },
+    {
+        "id": "202",
+        "kanji": "私の町",
+        "kana": "わたしのまち",
+        "translation": "Ma ville",
+        "module": "1"
+    },
+    {
+        "id": "203",
+        "kanji": "お兄さん",
+        "kana": "おにいさん",
+        "translation": "(Votre) grand frère",
+        "module": "1"
+    },
+    {
+        "id": "204",
+        "kanji": "お姉さん",
+        "kana": "おねえさん",
+        "translation": "(Votre) grande soeur",
+        "module": "1"
+    },
+    {
+        "id": "205",
+        "kanji": "お婆さん",
+        "kana": "おばあさん",
+        "translation": "(Votre) grand-mère",
+        "module": "1"
+    },
+    {
+        "id": "206",
+        "kanji": "お子さん",
+        "kana": "おこさん",
+        "translation": "Votre enfant, vos enfants",
+        "module": "1"
+    },
+    {
+        "id": "207",
+        "kanji": "お母さん",
+        "kana": "おかあさん",
+        "translation": "(Votre) mère",
+        "module": "1"
+    },
+    {
+        "id": "208",
+        "kanji": "お父さん",
+        "kana": "おとうさん",
+        "translation": "(Votre) père",
+        "module": "1"
+    },
+    {
+        "id": "209",
+        "kanji": "お爺さん",
+        "kana": "おじいさん",
+        "translation": "(Votre) grand-père",
+        "module": "1"
+    },
+    {
+        "id": "210",
+        "kanji": "お腹",
+        "kana": "おなか",
+        "translation": "Le ventre",
+        "module": "1"
+    },
+    {
+        "id": "211",
+        "kanji": "ご両親",
+        "kana": "ごりょうしん",
+        "translation": "Vos parents",
+        "module": "1"
+    },
+    {
+        "id": "212",
+        "kanji": "ご主人",
+        "kana": "ごしゅじん",
+        "translation": "Votre mari, votre époux",
+        "module": "1"
+    },
+    {
+        "id": "213",
+        "kanji": "ご兄弟",
+        "kana": "ごきょうだい",
+        "translation": "Vos frères et soeurs, votre fratrie",
+        "module": "1"
+    },
+    {
+        "id": "214",
+        "kanji": "ご家族",
+        "kana": "ごかぞく",
+        "translation": "Votre famille",
+        "module": "1"
+    },
+    {
+        "id": "215",
+        "kanji": "",
+        "kana": "と",
+        "translation": "Particule pour dire \"et\"",
+        "module": "1"
+    },
+    {
+        "id": "216",
+        "kanji": "",
+        "kana": "ハンサム",
+        "translation": "Beau (pour les hommes)",
+        "module": "1"
+    },
+    {
+        "id": "217",
+        "kanji": "",
+        "kana": "バカ",
+        "translation": "Imbécile, idiot",
+        "module": "1"
+    },
+    {
+        "id": "218",
+        "kanji": "",
+        "kana": "ペット",
+        "translation": "Animal de compagnie",
+        "module": "1"
+    },
+    {
+        "id": "219",
+        "kanji": "一人",
+        "kana": "ひとり",
+        "translation": "1 personne",
+        "module": "1"
+    },
+    {
+        "id": "220",
+        "kanji": "一匹",
+        "kana": "いっぴき",
+        "translation": "1 petit animal",
+        "module": "1"
+    },
+    {
+        "id": "221",
+        "kanji": "三人",
+        "kana": "さんにん",
+        "translation": "3 personnes",
+        "module": "1"
+    },
+    {
+        "id": "222",
+        "kanji": "三匹",
+        "kana": "さんびき",
+        "translation": "3 petits animaux",
+        "module": "1"
+    },
+    {
+        "id": "223",
+        "kanji": "両親",
+        "kana": "りょうしん",
+        "translation": "Parents",
+        "module": "1"
+    },
+    {
+        "id": "224",
+        "kanji": "亀",
+        "kana": "かめ",
+        "translation": "Tortue",
+        "module": "1"
+    },
+    {
+        "id": "225",
+        "kanji": "二人",
+        "kana": "ふたり",
+        "translation": "2 personnes",
+        "module": "1"
+    },
+    {
+        "id": "226",
+        "kanji": "二匹",
+        "kana": "にひき",
+        "translation": "2 petits animaux",
+        "module": "1"
+    },
+    {
+        "id": "227",
+        "kanji": "人",
+        "kana": "にん",
+        "translation": "Compteur des personnes",
+        "module": "1"
+    },
+    {
+        "id": "228",
+        "kanji": "人間",
+        "kana": "にんげん",
+        "translation": "Humain",
+        "module": "1"
+    },
+    {
+        "id": "229",
+        "kanji": "人間の体",
+        "kana": "にんげんのからだ",
+        "translation": "Le corps humain",
+        "module": "1"
+    },
+    {
+        "id": "230",
+        "kanji": "体",
+        "kana": "からだ",
+        "translation": "Corps",
+        "module": "1"
+    },
+    {
+        "id": "231",
+        "kanji": "何人",
+        "kana": "なんにん",
+        "translation": "Combien de personnes ?",
+        "module": "1"
+    },
+    {
+        "id": "232",
+        "kanji": "何匹",
+        "kana": "なんびき",
+        "translation": "Combien de petits animaux ?",
+        "module": "1"
+    },
+    {
+        "id": "233",
+        "kanji": "何羽",
+        "kana": "なんわ",
+        "translation": "Combien d'oiseaux ?",
+        "module": "1"
+    },
+    {
+        "id": "234",
+        "kanji": "何頭",
+        "kana": "なんとう",
+        "translation": "Combien de gros animaux ?",
+        "module": "1"
+    },
+    {
+        "id": "235",
+        "kanji": "優しい",
+        "kana": "やさしい",
+        "translation": "Tendre, doux, gentil (dans sa façon d'être)",
+        "module": "1"
+    },
+    {
+        "id": "236",
+        "kanji": "元気",
+        "kana": "げんき",
+        "translation": "En forme, énergique",
+        "module": "1"
+    },
+    {
+        "id": "237",
+        "kanji": "兄",
+        "kana": "あに",
+        "translation": "Mon grand-frère",
+        "module": "1"
+    },
+    {
+        "id": "238",
+        "kanji": "兄弟",
+        "kana": "きょうだい",
+        "translation": "Frères et soeurs",
+        "module": "1"
+    },
+    {
+        "id": "239",
+        "kanji": "内気",
+        "kana": "うちき",
+        "translation": "Timide, réservé",
+        "module": "1"
+    },
+    {
+        "id": "240",
+        "kanji": "冷たい",
+        "kana": "つめたい",
+        "translation": "Froid (personne, objet)",
+        "module": "1"
+    },
+    {
+        "id": "241",
+        "kanji": "動物",
+        "kana": "どうぶつ",
+        "translation": "Les animaux",
+        "module": "1"
+    },
+    {
+        "id": "242",
+        "kanji": "匹",
+        "kana": "ひき",
+        "translation": "Compteur des petits animaux",
+        "module": "1"
+    },
+    {
+        "id": "243",
+        "kanji": "叔母",
+        "kana": "おば",
+        "translation": "Ma tante",
+        "module": "1"
+    },
+    {
+        "id": "244",
+        "kanji": "叔母さん",
+        "kana": "おばさん",
+        "translation": "Votre tante",
+        "module": "1"
+    },
+    {
+        "id": "245",
+        "kanji": "叔父",
+        "kana": "おじ",
+        "translation": "Mon oncle",
+        "module": "1"
+    },
+    {
+        "id": "246",
+        "kanji": "叔父さん",
+        "kana": "おじさん",
+        "translation": "Votre oncle",
+        "module": "1"
+    },
+    {
+        "id": "247",
+        "kanji": "口",
+        "kana": "くち",
+        "translation": "La bouche",
+        "module": "1"
+    },
+    {
+        "id": "248",
+        "kanji": "四人",
+        "kana": "よにん",
+        "translation": "4 personnes",
+        "module": "1"
+    },
+    {
+        "id": "249",
+        "kanji": "太い",
+        "kana": "ふとい",
+        "translation": "Gros",
+        "module": "1"
+    },
+    {
+        "id": "250",
+        "kanji": "夫",
+        "kana": "おっと",
+        "translation": "Mon mari, mon époux",
+        "module": "1"
+    },
+    {
+        "id": "251",
+        "kanji": "夫婦",
+        "kana": "ふうふ",
+        "translation": "Couple marié, mari et femme",
+        "module": "1"
+    },
+    {
+        "id": "252",
+        "kanji": "奥さん",
+        "kana": "おくさん",
+        "translation": "Votre femme, votre épouse",
+        "module": "1"
+    },
+    {
+        "id": "253",
+        "kanji": "妹",
+        "kana": "いもうと",
+        "translation": "Ma petite soeur",
+        "module": "1"
+    },
+    {
+        "id": "254",
+        "kanji": "妹さん",
+        "kana": "いもうとさん",
+        "translation": "Votre petite soeur",
+        "module": "1"
+    },
+    {
+        "id": "255",
+        "kanji": "妻",
+        "kana": "つま",
+        "translation": "Ma femme, mon épouse",
+        "module": "1"
+    },
+    {
+        "id": "256",
+        "kanji": "姉",
+        "kana": "あね",
+        "translation": "Ma grande soeur",
+        "module": "1"
+    },
+    {
+        "id": "257",
+        "kanji": "姪",
+        "kana": "めい",
+        "translation": "(Ma) nièce",
+        "module": "1"
+    },
+    {
+        "id": "258",
+        "kanji": "娘",
+        "kana": "むすめ",
+        "translation": "Ma fille",
+        "module": "1"
+    },
+    {
+        "id": "259",
+        "kanji": "娘さん",
+        "kana": "むすめさん",
+        "translation": "Votre fille",
+        "module": "1"
+    },
+    {
+        "id": "260",
+        "kanji": "子",
+        "kana": "こ",
+        "translation": "Enfant(s)",
+        "module": "1"
+    },
+    {
+        "id": "261",
+        "kanji": "子供",
+        "kana": "こども",
+        "translation": "Enfant(s)",
+        "module": "1"
+    },
+    {
+        "id": "262",
+        "kanji": "家族",
+        "kana": "かぞく",
+        "translation": "Famille",
+        "module": "1"
+    },
+    {
+        "id": "263",
+        "kanji": "山羊",
+        "kana": "やぎ",
+        "translation": "Chèvre",
+        "module": "1"
+    },
+    {
+        "id": "264",
+        "kanji": "年寄",
+        "kana": "としより",
+        "translation": "Vieux (pour une personne)",
+        "module": "1"
+    },
+    {
+        "id": "265",
+        "kanji": "弟",
+        "kana": "おとうと",
+        "translation": "Mon petit frère",
+        "module": "1"
+    },
+    {
+        "id": "266",
+        "kanji": "弟さん",
+        "kana": "おとうとさん",
+        "translation": "Votre petit frère",
+        "module": "1"
+    },
+    {
+        "id": "267",
+        "kanji": "従妹",
+        "kana": "いとこ",
+        "translation": "(Mon) cousin(e)",
+        "module": "1"
+    },
+    {
+        "id": "268",
+        "kanji": "息子",
+        "kana": "むすこ",
+        "translation": "Mon fils",
+        "module": "1"
+    },
+    {
+        "id": "269",
+        "kanji": "息子さん",
+        "kana": "むすこさん",
+        "translation": "Votre fils",
+        "module": "1"
+    },
+    {
+        "id": "270",
+        "kanji": "手",
+        "kana": "て",
+        "translation": "La main, le bras",
+        "module": "1"
+    },
+    {
+        "id": "271",
+        "kanji": "明るい",
+        "kana": "あかるい",
+        "translation": "Lumineux, gai, joyeux",
+        "module": "1"
+    },
+    {
+        "id": "272",
+        "kanji": "歯",
+        "kana": "は",
+        "translation": "Les dents",
+        "module": "1"
+    },
+    {
+        "id": "273",
+        "kanji": "母",
+        "kana": "はは",
+        "translation": "Ma mère",
+        "module": "1"
+    },
+    {
+        "id": "274",
+        "kanji": "温かい",
+        "kana": "あたたかい",
+        "translation": "Chaleureux",
+        "module": "1"
+    },
+    {
+        "id": "275",
+        "kanji": "父",
+        "kana": "ちち",
+        "translation": "Mon père",
+        "module": "1"
+    },
+    {
+        "id": "276",
+        "kanji": "牛",
+        "kana": "うし",
+        "translation": "Vache",
+        "module": "1"
+    },
+    {
+        "id": "277",
+        "kanji": "犬",
+        "kana": "いぬ",
+        "translation": "Chien",
+        "module": "1"
+    },
+    {
+        "id": "278",
+        "kanji": "狐",
+        "kana": "きつね",
+        "translation": "Renard",
+        "module": "1"
+    },
+    {
+        "id": "279",
+        "kanji": "猫",
+        "kana": "ねこ",
+        "translation": "Chat",
+        "module": "1"
+    },
+    {
+        "id": "280",
+        "kanji": "甥",
+        "kana": "おい",
+        "translation": "(Mon) neveu",
+        "module": "1"
+    },
+    {
+        "id": "281",
+        "kanji": "目",
+        "kana": "め",
+        "translation": "Les yeux",
+        "module": "1"
+    },
+    {
+        "id": "282",
+        "kanji": "真面目",
+        "kana": "まじめ",
+        "translation": "Sérieux",
+        "module": "1"
+    },
+    {
+        "id": "283",
+        "kanji": "短い",
+        "kana": "みじかい",
+        "translation": "Court",
+        "module": "1"
+    },
+    {
+        "id": "284",
+        "kanji": "祖母",
+        "kana": "そぼ",
+        "translation": "Ma grand-mère",
+        "module": "1"
+    },
+    {
+        "id": "285",
+        "kanji": "祖父",
+        "kana": "そふ",
+        "translation": "Mon grand-père",
+        "module": "1"
+    },
+    {
+        "id": "286",
+        "kanji": "祖父母",
+        "kana": "そふぼ",
+        "translation": "Grands-parents",
+        "module": "1"
+    },
+    {
+        "id": "287",
+        "kanji": "私の家族",
+        "kana": "わたしのかぞく",
+        "translation": "Ma famille",
+        "module": "1"
+    },
+    {
+        "id": "288",
+        "kanji": "羊",
+        "kana": "ひつじ",
+        "translation": "Mouton",
+        "module": "1"
+    },
+    {
+        "id": "289",
+        "kanji": "羽",
+        "kana": "わ",
+        "translation": "Compteur des oiseaux & lapins",
+        "module": "1"
+    },
+    {
+        "id": "290",
+        "kanji": "耳",
+        "kana": "みみ",
+        "translation": "Les oreilles",
+        "module": "1"
+    },
+    {
+        "id": "291",
+        "kanji": "肌",
+        "kana": "はだ",
+        "translation": "La peau",
+        "module": "1"
+    },
+    {
+        "id": "292",
+        "kanji": "背が低い",
+        "kana": "せがひくい",
+        "translation": "Petit (taille)",
+        "module": "1"
+    },
+    {
+        "id": "293",
+        "kanji": "背が高い",
+        "kana": "せがたかい",
+        "translation": "Grand (taille)",
+        "module": "1"
+    },
+    {
+        "id": "294",
+        "kanji": "色",
+        "kana": "いろ",
+        "translation": "Couleur",
+        "module": "1"
+    },
+    {
+        "id": "295",
+        "kanji": "若い",
+        "kana": "わかい",
+        "translation": "Jeune",
+        "module": "1"
+    },
+    {
+        "id": "296",
+        "kanji": "茶髪",
+        "kana": "ちゃぱつ",
+        "translation": "Brun (cheveux)",
+        "module": "1"
+    },
+    {
+        "id": "297",
+        "kanji": "蛇",
+        "kana": "へび",
+        "translation": "Serpent",
+        "module": "1"
+    },
+    {
+        "id": "298",
+        "kanji": "蜘蛛",
+        "kana": "くも",
+        "translation": "Araignée",
+        "module": "1"
+    },
+    {
+        "id": "299",
+        "kanji": "親切",
+        "kana": "しんせつ",
+        "translation": "Gentil, aimable (dans ses actions)",
+        "module": "1"
+    },
+    {
+        "id": "300",
+        "kanji": "豚",
+        "kana": "ぶた",
+        "translation": "Cochon",
+        "module": "1"
+    },
+    {
+        "id": "301",
+        "kanji": "赤毛",
+        "kana": "あかげ",
+        "translation": "Roux",
+        "module": "1"
+    },
+    {
+        "id": "302",
+        "kanji": "足",
+        "kana": "あし",
+        "translation": "Le pied, la jambe",
+        "module": "1"
+    },
+    {
+        "id": "303",
+        "kanji": "金髪",
+        "kana": "きんぱつ",
+        "translation": "Blond",
+        "module": "1"
+    },
+    {
+        "id": "304",
+        "kanji": "頭",
+        "kana": "あたま",
+        "translation": "La tête",
+        "module": "1"
+    },
+    {
+        "id": "305",
+        "kanji": "頭",
+        "kana": "とう",
+        "translation": "Compteur des gros animaux",
+        "module": "1"
+    },
+    {
+        "id": "306",
+        "kanji": "頭がいい",
+        "kana": "あたまがいい",
+        "translation": "Intelligent",
+        "module": "1"
+    },
+    {
+        "id": "307",
+        "kanji": "顔",
+        "kana": "かお",
+        "translation": "Le visage",
+        "module": "1"
+    },
+    {
+        "id": "308",
+        "kanji": "首",
+        "kana": "くび",
+        "translation": "Le cou",
+        "module": "1"
+    },
+    {
+        "id": "309",
+        "kanji": "馬",
+        "kana": "うま",
+        "translation": "Cheval",
+        "module": "1"
+    },
+    {
+        "id": "310",
+        "kanji": "髪",
+        "kana": "かみ",
+        "translation": "Les cheveux",
+        "module": "1"
+    },
+    {
+        "id": "311",
+        "kanji": "魚",
+        "kana": "さかな",
+        "translation": "Poisson",
+        "module": "1"
+    },
+    {
+        "id": "312",
+        "kanji": "鳥",
+        "kana": "とり",
+        "translation": "Oiseau",
+        "module": "1"
+    },
+    {
+        "id": "313",
+        "kanji": "鼠",
+        "kana": "ねずみ",
+        "translation": "Souris, rat",
+        "module": "1"
+    },
+    {
+        "id": "314",
+        "kanji": "鼻",
+        "kana": "はな",
+        "translation": "Le nez",
+        "module": "1"
+    },
+    {
+        "id": "315",
+        "kanji": "",
+        "kana": "[が] います",
+        "translation": "Verbe \"exister\" comme dans l'expression \"il y a\"",
+        "module": "1"
+    },
+    {
+        "id": "316",
+        "kanji": "",
+        "kana": "カッコイイ",
+        "translation": "Cool, stylé",
+        "module": "1"
+    },
+    {
+        "id": "317",
+        "kanji": "[が]大嫌いです",
+        "kana": "[が]だいきらいです",
+        "translation": "Je hais, j'ai horreur de",
+        "module": "1"
+    },
+    {
+        "id": "318",
+        "kanji": "[が]好きです",
+        "kana": "[が]すきです",
+        "translation": "J'aime",
+        "module": "1"
+    },
+    {
+        "id": "319",
+        "kanji": "[が]嫌いです",
+        "kana": "[が]きらいです",
+        "translation": "Je déteste",
+        "module": "1"
+    },
+    {
+        "id": "321",
+        "kanji": "お酒",
+        "kana": "おさけ",
+        "translation": "L'alcool",
+        "module": "1"
+    },
+    {
+        "id": "322",
+        "kanji": "",
+        "kana": "ビデオゲーム",
+        "translation": "Jeux vidéo",
+        "module": "1"
+    },
+    {
+        "id": "323",
+        "kanji": "",
+        "kana": "ポップス",
+        "translation": "Musique pop",
+        "module": "1"
+    },
+    {
+        "id": "324",
+        "kanji": "",
+        "kana": "メタル",
+        "translation": "Musique métal",
+        "module": "1"
+    },
+    {
+        "id": "325",
+        "kanji": "",
+        "kana": "ロック",
+        "translation": "Musique rock",
+        "module": "1"
+    },
+    {
+        "id": "326",
+        "kanji": "一昨年",
+        "kana": "おととし",
+        "translation": "Il y a deux ans",
+        "module": "1"
+    },
+    {
+        "id": "327",
+        "kanji": "一昨日",
+        "kana": "おととい",
+        "translation": "Avant-hier",
+        "module": "1"
+    },
+    {
+        "id": "328",
+        "kanji": "一昨日の晩",
+        "kana": "おとといのばん",
+        "translation": "Avant-hier soir",
+        "module": "1"
+    },
+    {
+        "id": "329",
+        "kanji": "一昨日の朝",
+        "kana": "おとといのあさ",
+        "translation": "Avant-hier matin",
+        "module": "1"
+    },
+    {
+        "id": "330",
+        "kanji": "上",
+        "kana": "うえ",
+        "translation": "En haut, au-dessus",
+        "module": "1"
+    },
+    {
+        "id": "331",
+        "kanji": "上手",
+        "kana": "じょうず",
+        "translation": "Être doué, habile, bon",
+        "module": "1"
+    },
+    {
+        "id": "332",
+        "kanji": "下",
+        "kana": "した",
+        "translation": "En bas, en-dessous",
+        "module": "1"
+    },
+    {
+        "id": "333",
+        "kanji": "下手",
+        "kana": "へた",
+        "translation": "Être mauvais, maladroit, pas bon",
+        "module": "1"
+    },
+    {
+        "id": "334",
+        "kanji": "中学校",
+        "kana": "ちゅうがっこう",
+        "translation": "Collège",
+        "module": "1"
+    },
+    {
+        "id": "335",
+        "kanji": "事務所",
+        "kana": "じむしょ",
+        "translation": "Bureau, office",
+        "module": "1"
+    },
+    {
+        "id": "336",
+        "kanji": "今年",
+        "kana": "ことし",
+        "translation": "Cette année",
+        "module": "1"
+    },
+    {
+        "id": "337",
+        "kanji": "今日",
+        "kana": "きょう",
+        "translation": "Aujourd'hui",
+        "module": "1"
+    },
+    {
+        "id": "338",
+        "kanji": "今晩",
+        "kana": "こんばん",
+        "translation": "Ce soir",
+        "module": "1"
+    },
+    {
+        "id": "339",
+        "kanji": "今月",
+        "kana": "こんげつ",
+        "translation": "Ce mois-ci",
+        "module": "1"
+    },
+    {
+        "id": "340",
+        "kanji": "今朝",
+        "kana": "けさ",
+        "translation": "Ce matin",
+        "module": "1"
+    },
+    {
+        "id": "341",
+        "kanji": "今週",
+        "kana": "こんしゅう",
+        "translation": "Cette semaine",
+        "module": "1"
+    },
+    {
+        "id": "342",
+        "kanji": "休み",
+        "kana": "やすみ",
+        "translation": "Vacances, congés, repos",
+        "module": "1"
+    },
+    {
+        "id": "343",
+        "kanji": "休みの日",
+        "kana": "やすみのひ",
+        "translation": "Jour de congé",
+        "module": "1"
+    },
+    {
+        "id": "344",
+        "kanji": "会社",
+        "kana": "かいしゃ",
+        "translation": "Entreprise",
+        "module": "1"
+    },
+    {
+        "id": "345",
+        "kanji": "何",
+        "kana": "なに、なん",
+        "translation": "Quoi",
+        "module": "1"
+    },
+    {
+        "id": "346",
+        "kanji": "作ります",
+        "kana": "つくります",
+        "translation": "Créer, fabriquer, construire",
+        "module": "1"
+    },
+    {
+        "id": "347",
+        "kanji": "俳句",
+        "kana": "はいく",
+        "translation": "Court poème japonais",
+        "module": "1"
+    },
+    {
+        "id": "348",
+        "kanji": "先月",
+        "kana": "せんげつ",
+        "translation": "Le mois dernier",
+        "module": "1"
+    },
+    {
+        "id": "349",
+        "kanji": "先週",
+        "kana": "せんしゅう",
+        "translation": "La semaine dernière",
+        "module": "1"
+    },
+    {
+        "id": "350",
+        "kanji": "全然",
+        "kana": "ぜんぜん",
+        "translation": "(+ négatif) Pas du tout",
+        "module": "1"
+    },
+    {
+        "id": "351",
+        "kanji": "再来年",
+        "kana": "さらいねん",
+        "translation": "Dans deux ans",
+        "module": "1"
+    },
+    {
+        "id": "352",
+        "kanji": "再来月",
+        "kana": "さらいげつ",
+        "translation": "Dans deux mois",
+        "module": "1"
+    },
+    {
+        "id": "353",
+        "kanji": "再来週",
+        "kana": "さらいしゅう",
+        "translation": "Dans deux semaines",
+        "module": "1"
+    },
+    {
+        "id": "354",
+        "kanji": "写真",
+        "kana": "しゃしん",
+        "translation": "Photographie",
+        "module": "1"
+    },
+    {
+        "id": "355",
+        "kanji": "写真を撮ります",
+        "kana": "しゃしんを とります ",
+        "translation": "Prendre une photo",
+        "module": "1"
+    },
+    {
+        "id": "356",
+        "kanji": "勉強",
+        "kana": "べんきょう",
+        "translation": "Les études",
+        "module": "1"
+    },
+    {
+        "id": "357",
+        "kanji": "勉強します",
+        "kana": "べんきょうします",
+        "translation": "Étudier",
+        "module": "1"
+    },
+    {
+        "id": "358",
+        "kanji": "去年",
+        "kana": "きょねん",
+        "translation": "L'année dernière",
+        "module": "1"
+    },
+    {
+        "id": "359",
+        "kanji": "和楽器",
+        "kana": "わがっき",
+        "translation": "Instruments de musique traditionnels japonais",
+        "module": "1"
+    },
+    {
+        "id": "360",
+        "kanji": "大学",
+        "kana": "だいがく",
+        "translation": "Université",
+        "module": "1"
+    },
+    {
+        "id": "361",
+        "kanji": "好き",
+        "kana": "すき",
+        "translation": "Aimer",
+        "module": "1"
+    },
+    {
+        "id": "362",
+        "kanji": "学校",
+        "kana": "がっこう",
+        "translation": "École",
+        "module": "1"
+    },
+    {
+        "id": "363",
+        "kanji": "家",
+        "kana": "いえ",
+        "translation": "Maison",
+        "module": "1"
+    },
+    {
+        "id": "364",
+        "kanji": "家",
+        "kana": "うち",
+        "translation": "Chez soi",
+        "module": "1"
+    },
+    {
+        "id": "365",
+        "kanji": "宿題",
+        "kana": "しゅくだい",
+        "translation": "Devoirs à la maison",
+        "module": "1"
+    },
+    {
+        "id": "366",
+        "kanji": "宿題をします",
+        "kana": "しゅくだいをします ",
+        "translation": "Faire ses devoirs",
+        "module": "1"
+    },
+    {
+        "id": "367",
+        "kanji": "小学校",
+        "kana": "しょうがっこう",
+        "translation": "École primaire",
+        "module": "1"
+    },
+    {
+        "id": "368",
+        "kanji": "居酒屋",
+        "kana": "いざかや",
+        "translation": "Type d'établissement à mi-chemin entre le restaurant et le bar",
+        "module": "1"
+    },
+    {
+        "id": "369",
+        "kanji": "年",
+        "kana": "ねん・とし",
+        "translation": "année",
+        "module": "1"
+    },
+    {
+        "id": "370",
+        "kanji": "弾きます",
+        "kana": "ひきます",
+        "translation": "Jouer (d'un instrument de musique)",
+        "module": "1"
+    },
+    {
+        "id": "371",
+        "kanji": "折り紙",
+        "kana": "おりがみ",
+        "translation": "Art du pliage de papier",
+        "module": "1"
+    },
+    {
+        "id": "372",
+        "kanji": "撮ります",
+        "kana": "とります",
+        "translation": "Prendre (une photo)",
+        "module": "1"
+    },
+    {
+        "id": "373",
+        "kanji": "教えます",
+        "kana": "おしえます",
+        "translation": "Enseigner",
+        "module": "1"
+    },
+    {
+        "id": "374",
+        "kanji": "文学",
+        "kana": "ぶんがく",
+        "translation": "La littérature",
+        "module": "1"
+    },
+    {
+        "id": "375",
+        "kanji": "料理",
+        "kana": "りょうり",
+        "translation": "Cuisine, plat",
+        "module": "1"
+    },
+    {
+        "id": "376",
+        "kanji": "新聞",
+        "kana": "しんぶん",
+        "translation": "Journal",
+        "module": "1"
+    },
+    {
+        "id": "377",
+        "kanji": "日",
+        "kana": "ひ",
+        "translation": "Jour, journée",
+        "module": "1"
+    },
+    {
+        "id": "378",
+        "kanji": "日本",
+        "kana": "にほん",
+        "translation": "Le Japon",
+        "module": "1"
+    },
+    {
+        "id": "379",
+        "kanji": "明後日",
+        "kana": "あさって",
+        "translation": "Après-demain",
+        "module": "1"
+    },
+    {
+        "id": "380",
+        "kanji": "明後日の晩",
+        "kana": "あさってのばん",
+        "translation": "Après-demain soir",
+        "module": "1"
+    },
+    {
+        "id": "381",
+        "kanji": "明後日の朝",
+        "kana": "あさってのあさ",
+        "translation": "Après-demain matin",
+        "module": "1"
+    },
+    {
+        "id": "382",
+        "kanji": "明日",
+        "kana": "あした",
+        "translation": "Demain",
+        "module": "1"
+    },
+    {
+        "id": "383",
+        "kanji": "明日の晩",
+        "kana": "あしたのばん",
+        "translation": "Demain soir",
+        "module": "1"
+    },
+    {
+        "id": "384",
+        "kanji": "明日の朝",
+        "kana": "あしたのあさ",
+        "translation": "Demain matin",
+        "module": "1"
+    },
+    {
+        "id": "385",
+        "kanji": "昨日",
+        "kana": "きのう",
+        "translation": "Hier",
+        "module": "1"
+    },
+    {
+        "id": "386",
+        "kanji": "昨日の晩",
+        "kana": "きのうのばん",
+        "translation": "Hier soir",
+        "module": "1"
+    },
+    {
+        "id": "387",
+        "kanji": "昨日の朝",
+        "kana": "きのうのあさ",
+        "translation": "Hier matin",
+        "module": "1"
+    },
+    {
+        "id": "388",
+        "kanji": "時々",
+        "kana": "ときどき",
+        "translation": "De temps en temps",
+        "module": "1"
+    },
+    {
+        "id": "389",
+        "kanji": "書きます",
+        "kana": "かきます",
+        "translation": "Écrire, dessiner, peindre",
+        "module": "1"
+    },
+    {
+        "id": "390",
+        "kanji": "書道",
+        "kana": "しょどう",
+        "translation": "Calligraphie",
+        "module": "1"
+    },
+    {
+        "id": "391",
+        "kanji": "月",
+        "kana": "つき",
+        "translation": "La lune",
+        "module": "1"
+    },
+    {
+        "id": "392",
+        "kanji": "朝",
+        "kana": "あさ",
+        "translation": "Le matin",
+        "module": "1"
+    },
+    {
+        "id": "393",
+        "kanji": "本",
+        "kana": "ほん",
+        "translation": "Livre",
+        "module": "1"
+    },
+    {
+        "id": "394",
+        "kanji": "来年",
+        "kana": "らいねん",
+        "translation": "L'année prochaine",
+        "module": "1"
+    },
+    {
+        "id": "395",
+        "kanji": "来月",
+        "kana": "らいげつ",
+        "translation": "Le mois prochain",
+        "module": "1"
+    },
+    {
+        "id": "396",
+        "kanji": "来週",
+        "kana": "らいしゅう",
+        "translation": "La semaine prochaine",
+        "module": "1"
+    },
+    {
+        "id": "397",
+        "kanji": "歌",
+        "kana": "うた",
+        "translation": "Chant, chanson",
+        "module": "1"
+    },
+    {
+        "id": "398",
+        "kanji": "武道",
+        "kana": "ぶどう",
+        "translation": "Arts martiaux",
+        "module": "1"
+    },
+    {
+        "id": "399",
+        "kanji": "歴史",
+        "kana": "れきし",
+        "translation": "L'Histoire",
+        "module": "1"
+    },
+    {
+        "id": "400",
+        "kanji": "毎年",
+        "kana": "まいとし",
+        "translation": "Tous les ans",
+        "module": "1"
+    },
+    {
+        "id": "401",
+        "kanji": "毎日",
+        "kana": "まいにち",
+        "translation": "Tous les jours",
+        "module": "1"
+    },
+    {
+        "id": "402",
+        "kanji": "毎晩",
+        "kana": "まいばん",
+        "translation": "Tous les soirs",
+        "module": "1"
+    },
+    {
+        "id": "403",
+        "kanji": "毎月",
+        "kana": "まいつき",
+        "translation": "Tous les mois",
+        "module": "1"
+    },
+    {
+        "id": "404",
+        "kanji": "毎朝",
+        "kana": "まいあさ",
+        "translation": "Tous les matins",
+        "module": "1"
+    },
+    {
+        "id": "405",
+        "kanji": "毎週",
+        "kana": "まいしゅう",
+        "translation": "Toutes les semaines",
+        "module": "1"
+    },
+    {
+        "id": "406",
+        "kanji": "水泳",
+        "kana": "すいえい",
+        "translation": "Natation",
+        "module": "1"
+    },
+    {
+        "id": "407",
+        "kanji": "演劇",
+        "kana": "えんげき",
+        "translation": "Théâtre",
+        "module": "1"
+    },
+    {
+        "id": "408",
+        "kanji": "漫画",
+        "kana": "まんが",
+        "translation": "Bande-dessinée japonaise",
+        "module": "1"
+    },
+    {
+        "id": "409",
+        "kanji": "生け花",
+        "kana": "いけばな",
+        "translation": "Arrangement floral japonais",
+        "module": "1"
+    },
+    {
+        "id": "410",
+        "kanji": "相撲",
+        "kana": "すもう",
+        "translation": "Lutte traditionnelle japonaise",
+        "module": "1"
+    },
+    {
+        "id": "411",
+        "kanji": "私の趣味",
+        "kana": "わたしのしゅみ",
+        "translation": "Mes loisirs",
+        "module": "1"
+    },
+    {
+        "id": "412",
+        "kanji": "絵",
+        "kana": "え",
+        "translation": "Dessin, peinture",
+        "module": "1"
+    },
+    {
+        "id": "413",
+        "kanji": "習います",
+        "kana": "ならいます",
+        "translation": "Apprendre (avec un professeur)",
+        "module": "1"
+    },
+    {
+        "id": "414",
+        "kanji": "聞きます",
+        "kana": "ききます",
+        "translation": "Écouter",
+        "module": "1"
+    },
+    {
+        "id": "415",
+        "kanji": "肉",
+        "kana": "にく",
+        "translation": "La viande",
+        "module": "1"
+    },
+    {
+        "id": "416",
+        "kanji": "茶道",
+        "kana": "さどう",
+        "translation": "Cérémonie du thé",
+        "module": "1"
+    },
+    {
+        "id": "417",
+        "kanji": "見ます",
+        "kana": "みます",
+        "translation": "Regarder",
+        "module": "1"
+    },
+    {
+        "id": "418",
+        "kanji": "読みます",
+        "kana": "よみます",
+        "translation": "Lire",
+        "module": "1"
+    },
+    {
+        "id": "419",
+        "kanji": "読書",
+        "kana": "どくしょ",
+        "translation": "La lecture",
+        "module": "1"
+    },
+    {
+        "id": "420",
+        "kanji": "買います",
+        "kana": "かいます",
+        "translation": "Acheter",
+        "module": "1"
+    },
+    {
+        "id": "421",
+        "kanji": "趣味",
+        "kana": "しゅみ",
+        "translation": "Loisir, passe-temps",
+        "module": "1"
+    },
+    {
+        "id": "422",
+        "kanji": "週",
+        "kana": "しゅう",
+        "translation": "Semaine",
+        "module": "1"
+    },
+    {
+        "id": "423",
+        "kanji": "野球",
+        "kana": "やきゅう",
+        "translation": "Base-ball",
+        "module": "1"
+    },
+    {
+        "id": "424",
+        "kanji": "音楽",
+        "kana": "おんがく",
+        "translation": "Musique",
+        "module": "1"
+    },
+    {
+        "id": "425",
+        "kanji": "食べます",
+        "kana": "たべます",
+        "translation": "Manger",
+        "module": "1"
+    },
+    {
+        "id": "426",
+        "kanji": "食べ物",
+        "kana": "たべもの",
+        "translation": "Nourriture",
+        "module": "1"
+    },
+    {
+        "id": "427",
+        "kanji": "食堂",
+        "kana": "しょくどう",
+        "translation": "Cantine, salle à manger",
+        "module": "1"
+    },
+    {
+        "id": "428",
+        "kanji": "飲みます",
+        "kana": "のみます",
+        "translation": "Boire",
+        "module": "1"
+    },
+    {
+        "id": "429",
+        "kanji": "高校",
+        "kana": "こうこう",
+        "translation": "Lycée",
+        "module": "1"
+    },
+    {
+        "id": "430",
+        "kanji": "魚",
+        "kana": "さかな",
+        "translation": "Poisson",
+        "module": "1"
+    },
+    {
+        "id": "431",
+        "kanji": "",
+        "kana": "アニメ",
+        "translation": "Dessin animé japonais",
+        "module": "1"
+    },
+    {
+        "id": "432",
+        "kanji": "",
+        "kana": "いつ",
+        "translation": "Quand ?",
+        "module": "1"
+    },
+    {
+        "id": "433",
+        "kanji": "",
+        "kana": "ヴァイオリン",
+        "translation": "Violon",
+        "module": "1"
+    },
+    {
+        "id": "434",
+        "kanji": "",
+        "kana": "ゲームセンター",
+        "translation": "Salles d'arcades",
+        "module": "1"
+    },
+    {
+        "id": "435",
+        "kanji": "",
+        "kana": "コーヒー",
+        "translation": "Du café",
+        "module": "1"
+    },
+    {
+        "id": "436",
+        "kanji": "",
+        "kana": "テニスをします",
+        "translation": "Faire du tennis",
+        "module": "1"
+    },
+    {
+        "id": "437",
+        "kanji": "",
+        "kana": "デパート",
+        "translation": "Centre commercial",
+        "module": "1"
+    },
+    {
+        "id": "438",
+        "kanji": "",
+        "kana": "テレビ",
+        "translation": "La télévision",
+        "module": "1"
+    },
+    {
+        "id": "439",
+        "kanji": "[が]大好きです",
+        "kana": "[が]だいすきです",
+        "translation": "J'adore",
+        "module": "1"
+    }
+]

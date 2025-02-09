@@ -56,9 +56,9 @@ import sophie from "../assets/sophie-voyage-rouge.png";
     <a
       target="_blank"
       referrerpolicy="no-referrer"
-      href="https://cours-de-japonais.com/formation-objectif-japon-3/"
+      href="https://www.objectif-japon.com/formation/index/"
     >
-      <div class="red-cta">Découvrir la formation Objectif Japon!</div>
+      <div class="red-cta">Aller sur Objectif Japon</div>
     </a>
     <style>
       p {
@@ -278,9 +278,9 @@ import sophie from "../assets/sophie-voyage-rouge.png";
     </style>
 
     <script>
-      import { fetchModule, fetchModules } from "../../lib/supabase";
       import { shuffle, obfuscateString } from "../../lib/utils";
       import type { IVocabulary } from "../types";
+      import vocabulary from "../../vocabulary.json";
 
       // DOM elements
       const fetchers = document.querySelectorAll(".fetcher");
@@ -316,7 +316,6 @@ import sophie from "../assets/sophie-voyage-rouge.png";
             handleHelpBtnClick();
           }
           timeoutId = setTimeout(() => {
-            console.log("i am here");
             populateQuestion();
           }, 10000);
         }
@@ -397,21 +396,22 @@ import sophie from "../assets/sophie-voyage-rouge.png";
           guessLevel++;
         }
       }
-
-      // API calls
-      async function handleModuleSelection(module: string): Promise<void> {
+      function handleModuleSelection(module: string): void {
         cleanQuestions();
-        let data = null;
+        let data:
+          | { kanji: string; kana: string; translation: string }[]
+          | null = null;
         if (module === "all") {
-          data = await fetchModules();
+          data = vocabulary;
         } else {
-          data = await fetchModule(module);
+          data = vocabulary.filter((item) => item.module === module);
         }
         if (data) {
           selectBox.style.display = "none";
           guessBox.style.display = "block";
+          questions = shuffle(data);
         }
-        questions = shuffle(data);
+
         populateQuestion();
       }
     </script>
