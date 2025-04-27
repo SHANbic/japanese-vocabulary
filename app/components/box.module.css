@@ -1,0 +1,15 @@
+.box {
+  transform: translateY(-1rem);
+  padding: 1rem;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 0.5rem;
+  border: 1px solid white;
+  box-shadow: 0 0.25rem 1rem rgba(0, 0, 0, 0.25);
+}
+
+.boxTitle {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

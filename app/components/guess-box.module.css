@@ -1,0 +1,84 @@
+@keyframes countdown {
+  0% {
+    background-position: 0% 0;
+  }
+  100% {
+    background-position: 100% 0;
+  }
+}
+
+.countdown {
+  background: linear-gradient(to left, #f5e3ca 50%, #faebd7 50%);
+  background-size: 200% 100%;
+  animation: countdown 10s linear backwards;
+}
+
+.next.countdown {
+  animation: countdown 10s linear;
+}
+
+#backButton {
+  content: "";
+  display: block;
+  color: black;
+  text-align: left;
+  border-radius: 0.25rem;
+  transition: all 0.2s;
+  border: none;
+  background-color: transparent;
+}
+#backButton:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+#remainingQuestions {
+  font-weight: bold;
+}
+
+.currentGuess {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+#kanji {
+  line-height: 1;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+#kana {
+  position: relative;
+}
+
+#kana {
+  line-height: 1;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+#translation {
+  line-height: 1;
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  #kanji {
+    font-size: 1.25rem;
+  }
+
+  #kana {
+    font-size: 1rem;
+  }
+
+  #translation {
+    font-size: 0.825rem;
+  }
+}
