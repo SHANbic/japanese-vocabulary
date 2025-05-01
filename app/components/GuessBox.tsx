@@ -123,7 +123,7 @@ export default function GuessBox({
           </span>
         </p>
       </div>
-      <p className="text-center text-lg font-bold mb-4">
+      <p className="text-center text-lg font-bold my-4">
         Comprends-tu le sens de ceci?
       </p>
       <>

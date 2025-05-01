@@ -16,7 +16,7 @@ export default function SelectBox(props: {
 
   return (
     <div className={styles.box}>
-      <p className="text-center text-lg font-bold mb-4">
+      <p className="text-center text-lg font-bold my-4">
         Quelle leçon souhaites-tu réviser?
       </p>
       <select
@@ -31,13 +31,13 @@ export default function SelectBox(props: {
           <option value="l4">Leçon 4</option>
           <option value="m1">Toutes les leçons du module 1</option>
         </optgroup>
-        {/*  <optgroup label="Module 2">
+        <optgroup label="Module 2">
           <option value="l5">Leçon 5</option>
           <option value="l6">Leçon 6</option>
           <option value="l7">Leçon 7</option>
           <option value="l8">Leçon 8</option>
           <option value="m2">Toutes les leçons du module 2</option>
-        </optgroup> */}
+        </optgroup>
       </select>
 
       <div className="mt-8">
