@@ -20,7 +20,6 @@ export default function RootLayout({
           type="image/svg+xml"
           href="https://da32ev14kd4yl.cloudfront.net/versioned/objectif-japon/icon-OJ.png"
         />
-        <link href="https://fonts.cdnfonts.com/css/mada" rel="stylesheet" />
       </head>
       <body>{children}</body>
     </html>
