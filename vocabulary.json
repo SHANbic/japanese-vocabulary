@@ -77,8 +77,8 @@
     "lesson": "l1"
   },
   {
-    "kanji": "あの人 は 誰 です か。",
-    "kana": "あの ひと は だれ です か。",
+    "kanji": "あの人は誰ですか。",
+    "kana": "あのひとはだれですか。",
     "translation": "Qui est cette personne ?",
     "module": "m1",
     "lesson": "l1"
@@ -86,7 +86,7 @@
   {
     "kanji": "",
     "kana": "あのう",
-    "translation": "Euh     (hésitation)",
+    "translation": "Euh (hésitation)",
     "module": "m1",
     "lesson": "l1"
   },
@@ -113,7 +113,7 @@
   },
   {
     "kanji": "",
-    "kana": "いい です ね。",
+    "kana": "いいですね。",
     "translation": "C'est bien, c'est super !",
     "module": "m1",
     "lesson": "l1"
@@ -512,7 +512,7 @@
   },
   {
     "kanji": "",
-    "kana": "そう です か。",
+    "kana": "そうですか。",
     "translation": "Ah bon !",
     "module": "m1",
     "lesson": "l1"
@@ -609,8 +609,8 @@
     "lesson": "l1"
   },
   {
-    "kanji": "どこ から 来ました か。",
-    "kana": "どこ から きました か。",
+    "kanji": "どこから来ましたか。",
+    "kana": "どこからきましたか。",
     "translation": "D'où viens-tu ?",
     "module": "m1",
     "lesson": "l1"
@@ -735,8 +735,8 @@
     "lesson": "l1"
   },
   {
-    "kanji": "フランス から 来ました。",
-    "kana": "フランス から きました。",
+    "kanji": "フランスから来ました。",
+    "kana": "フランスからきました。",
     "translation": "Je viens de France.",
     "module": "m1",
     "lesson": "l1"
@@ -770,8 +770,8 @@
     "lesson": "l1"
   },
   {
-    "kanji": "また 今度",
-    "kana": "また こんど",
+    "kanji": "また今度",
+    "kana": "またこんど",
     "translation": "A la prochaine",
     "module": "m1",
     "lesson": "l1"
@@ -889,22 +889,22 @@
     "lesson": "l1"
   },
   {
-    "kanji": "私 は ソフィー です。",
-    "kana": "わたし は ソフィー です。",
+    "kanji": "私はソフィーです。",
+    "kana": "わたしはソフィーです。",
     "translation": "Je suis Sophie.",
     "module": "m1",
     "lesson": "l1"
   },
   {
-    "kanji": "私 は 日本人 じゃありません。",
-    "kana": "わたし は にほんじんじゃありません。",
+    "kanji": "私は日本人じゃありません。",
+    "kana": "わたしはにほんじんじゃありません。",
     "translation": "Je ne suis pas Japonais(e).",
     "module": "m1",
     "lesson": "l1"
   },
   {
-    "kanji": "私 は 日本人 です。",
-    "kana": "わたし は にほんじん です。",
+    "kanji": "私は日本人です。",
+    "kana": "わたしはにほんじんです。",
     "translation": "Je suis Japonais(e).",
     "module": "m1",
     "lesson": "l1"
@@ -1143,7 +1143,7 @@
   },
   {
     "kanji": "",
-    "kana": "ごしゅっしん は どちら です か。",
+    "kana": "ごしゅっしんはどちらですか。",
     "translation": "Quelle est votre origine ? (de manière très polie)",
     "module": "m1",
     "lesson": "l2"
@@ -1185,7 +1185,7 @@
   },
   {
     "kanji": "静かじゃありません。",
-    "kana": "しずかじゃありません 。",
+    "kana": "しずかじゃありません。",
     "translation": "Ce n'est pas calme.",
     "module": "m1",
     "lesson": "l2"
@@ -2166,7 +2166,7 @@
   },
   {
     "kanji": "人間の体",
-    "kana": "にんげん の からだ",
+    "kana": "にんげんのからだ",
     "translation": "Le corps humain",
     "module": "m1",
     "lesson": "l3"
@@ -2442,13 +2442,6 @@
     "kanji": "[が]大好きです",
     "kana": "[が] だいすきです",
     "translation": "J'adore",
-    "module": "m1",
-    "lesson": "l4"
-  },
-  {
-    "kanji": "",
-    "kana": "Transformer un verbe au négatif",
-    "translation": "La terminaison -ます devient -ません",
     "module": "m1",
     "lesson": "l4"
   },
@@ -2853,7 +2846,7 @@
   },
   {
     "kanji": "写真を撮ります",
-    "kana": "しゃしん を とります",
+    "kana": "しゃしんをとります",
     "translation": "Prendre une photo",
     "module": "m1",
     "lesson": "l4"
@@ -2881,7 +2874,7 @@
   },
   {
     "kanji": "宿題をします",
-    "kana": "しゅくだい を します",
+    "kana": "しゅくだいをします",
     "translation": "Faire ses devoirs",
     "module": "m1",
     "lesson": "l4"
@@ -3497,7 +3490,7 @@
   },
   {
     "kanji": "お手洗いはどちらですか。",
-    "kana": "おてあらい は どちらです か。",
+    "kana": "おてあらいはどちらですか。",
     "translation": "Où sont les toilettes ? (version très polie)",
     "module": "m2",
     "lesson": "l5"
@@ -3532,7 +3525,7 @@
   },
   {
     "kanji": "九階",
-    "kana": "きゅうかい ",
+    "kana": "きゅうかい",
     "translation": "9ème étage",
     "module": "m2",
     "lesson": "l5"
@@ -4204,7 +4197,7 @@
   },
   {
     "kanji": "休憩します",
-    "kana": "きゅうけい します",
+    "kana": "きゅうけいします",
     "translation": "Faire une pause",
     "module": "m2",
     "lesson": "l6"
@@ -4302,7 +4295,7 @@
   },
   {
     "kanji": "仕事します",
-    "kana": "しごと を します",
+    "kana": "しごとをします",
     "translation": "Travailler, effectuer une tâche",
     "module": "m2",
     "lesson": "l6"
@@ -4330,7 +4323,7 @@
   },
   {
     "kanji": "宿題をします",
-    "kana": "しゅくだい を します",
+    "kana": "しゅくだいをします",
     "translation": "Faire ses devoirs",
     "module": "m2",
     "lesson": "l6"
@@ -4351,7 +4344,7 @@
   },
   {
     "kanji": "",
-    "kana": "そう です か。",
+    "kana": "そうですか。",
     "translation": "Ah bon ?",
     "module": "m2",
     "lesson": "l6"
@@ -4385,8 +4378,8 @@
     "lesson": "l6"
   },
   {
-    "kanji": "誰 も いません。",
-    "kana": "だれ も いません。",
+    "kanji": "誰もいません。",
+    "kana": "だれもいません。",
     "translation": "Il n'y a personne.",
     "module": "m2",
     "lesson": "l6"
@@ -4435,7 +4428,7 @@
   },
   {
     "kanji": "電話番号",
-    "kana": "でんわ ばんごう",
+    "kana": "でんわばんごう",
     "translation": "Numéro de téléphone",
     "module": "m2",
     "lesson": "l6"
@@ -4477,7 +4470,7 @@
   },
   {
     "kanji": "",
-    "kana": "どこ も いきません。",
+    "kana": "どこもいきません。",
     "translation": "Je ne vais nulle part.",
     "module": "m2",
     "lesson": "l6"
@@ -4512,8 +4505,8 @@
     "lesson": "l6"
   },
   {
-    "kanji": "何 も ありません。",
-    "kana": "なに も ありません。",
+    "kanji": "何もありません。",
+    "kana": "なにもありません。",
     "translation": "Il n'y a rien.",
     "module": "m2",
     "lesson": "l6"
@@ -4575,8 +4568,8 @@
     "lesson": "l6"
   },
   {
-    "kanji": "日本 へ ようこそ",
-    "kana": "にほん へ ようこそ",
+    "kanji": "日本へようこそ",
+    "kana": "にほんへようこそ",
     "translation": "Bienvenue au Japon",
     "module": "m2",
     "lesson": "l6"
@@ -4801,7 +4794,7 @@
   },
   {
     "kanji": "留学します",
-    "kana": "りゅうがく します",
+    "kana": "りゅうがくします",
     "translation": "Faire des études à l'étranger",
     "module": "m2",
     "lesson": "l6"
@@ -4962,14 +4955,14 @@
   },
   {
     "kanji": "",
-    "kana": "しずか じゃありませんでした",
+    "kana": "しずかじゃありませんでした",
     "translation": "しずかじゃありません au passé (ce n'était pas calme)",
     "module": "m2",
     "lesson": "l7"
   },
   {
     "kanji": "",
-    "kana": "しずか でした",
+    "kana": "しずかでした",
     "translation": "しずかです au passé (c'était calme)",
     "module": "m2",
     "lesson": "l7"
@@ -5081,7 +5074,7 @@
   },
   {
     "kanji": "",
-    "kana": "そう です ね。",
+    "kana": "そうですね。",
     "translation": "Voyons voir... (expression utilisée quand on réfléchit à notre réponse)",
     "module": "m2",
     "lesson": "l7"
@@ -5123,14 +5116,14 @@
   },
   {
     "kanji": "小さかったです",
-    "kana": "ちいさかった です",
+    "kana": "ちいさかったです",
     "translation": "ちいさいです au passé (c'était petit)",
     "module": "m2",
     "lesson": "l7"
   },
   {
     "kanji": "小さくなかったです",
-    "kana": "ちいさくなかった です",
+    "kana": "ちいさくなかったです",
     "translation": "ちいさくないです au passé (ce n'était pas petit)",
     "module": "m2",
     "lesson": "l7"
@@ -5236,7 +5229,7 @@
 
   {
     "kanji": "人が多かったです。",
-    "kana": "ひと が おおかった です。",
+    "kana": "ひとがおおかったです。",
     "translation": "Les gens étaient nombreux.",
     "module": "m2",
     "lesson": "l7"
@@ -5327,14 +5320,14 @@
   },
   {
     "kanji": "良かったです",
-    "kana": "よかった です",
+    "kana": "よかったです",
     "translation": "いいです au passé (c'était bien)",
     "module": "m2",
     "lesson": "l7"
   },
   {
     "kanji": "良くなかったです",
-    "kana": "よくなかった です",
+    "kana": "よくなかったです",
     "translation": "よくないです au passé (ce n'était pas bien)",
     "module": "m2",
     "lesson": "l7"
@@ -5369,7 +5362,7 @@
   },
   {
     "kanji": "(と) 結婚します",
-    "kana": "(と) けっこん します",
+    "kana": "(と) けっこんします",
     "translation": "Se marier, épouser (quelqu'un)",
     "module": "m2",
     "lesson": "l8"
@@ -5439,7 +5432,7 @@
   },
   {
     "kanji": "一番欲しい物",
-    "kana": "いちばん ほしい もの",
+    "kana": "いちばんほしいもの",
     "translation": "La chose la plus désirée",
     "module": "m2",
     "lesson": "l8"
@@ -5488,7 +5481,7 @@
   },
   {
     "kanji": "お花見をします",
-    "kana": "おはなみ を します",
+    "kana": "おはなみをします",
     "translation": "Faire le hanami",
     "module": "m2",
     "lesson": "l8"
@@ -5516,7 +5509,7 @@
   },
   {
     "kanji": "買い物に行きます",
-    "kana": "かいもの に いきます",
+    "kana": "かいものにいきます",
     "translation": "Aller faire des courses",
     "module": "m2",
     "lesson": "l8"
@@ -5558,7 +5551,7 @@
   },
   {
     "kanji": "携帯電話",
-    "kana": "けいたい でんわ",
+    "kana": "けいたいでんわ",
     "translation": "Téléphone portable",
     "module": "m2",
     "lesson": "l8"
@@ -5572,14 +5565,14 @@
   },
   {
     "kanji": "見学します",
-    "kana": "けんがく します",
+    "kana": "けんがくします",
     "translation": "Visiter, faire une visite",
     "module": "m2",
     "lesson": "l8"
   },
   {
     "kanji": "子供の時",
-    "kana": "こども の とき",
+    "kana": "こどものとき",
     "translation": "Quand j'étais enfant",
     "module": "m2",
     "lesson": "l8"
@@ -5733,7 +5726,7 @@
   },
   {
     "kanji": "何もしたくないです。",
-    "kana": "なにも したくない です。",
+    "kana": "なにもしたくないです。",
     "translation": "Je ne veux rien faire.",
     "module": "m2",
     "lesson": "l8"
@@ -5901,15 +5894,15 @@
     "lesson": "l8"
   },
   {
-    "kanji": "よく 分かります。",
-    "kana": "よく わかります。",
+    "kanji": "よく分かります。",
+    "kana": "よくわかります。",
     "translation": "Je comprends bien.",
     "module": "m2",
     "lesson": "l8"
   },
   {
-    "kanji": "よく 分かりません。",
-    "kana": "よく わかりません。",
+    "kanji": "よく分かりません。",
+    "kana": "よくわかりません。",
     "translation": "Je ne comprends pas bien.",
     "module": "m2",
     "lesson": "l8"
@@ -5929,8 +5922,8 @@
     "lesson": "l8"
   },
   {
-    "kanji": "レストラン へ 食べに行きます",
-    "kana": "レストラン へ たべにいきます",
+    "kanji": "レストランへ食べに行きます",
+    "kana": "レストランへたべにいきます",
     "translation": "Je vais manger au restaurant",
     "module": "m2",
     "lesson": "l8"
@@ -5945,7 +5938,7 @@
   },
   {
     "kanji": "分かりませんでした。",
-    "kana": "わかりません でした。",
+    "kana": "わかりませんでした。",
     "translation": "Je n'ai pas compris.",
     "module": "m2",
     "lesson": "l8"

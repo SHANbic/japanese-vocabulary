@@ -53,4 +53,15 @@ describe("Vocabulary JSON Tests", () => {
       expect(entry.lesson).toMatch(/^l\d+$/);
     });
   });
+
+  xit("should ensure kanji and kana do not have white spaces", () => {
+    vocabulary.forEach((entry) => {
+      if (entry.kanji.indexOf(" ") !== -1) {
+        // console.log(entry.kanji);
+      }
+      if (entry.kana.indexOf(" ") !== -1) {
+        console.log(entry.kana);
+      }
+    });
+  });
 });
