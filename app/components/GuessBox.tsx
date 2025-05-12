@@ -97,8 +97,6 @@ export default function GuessBox({
     }
   };
 
-  console.log(vocabulary.length - currentIndex);
-
   return (
     <div className={styles2.box}>
       <div
