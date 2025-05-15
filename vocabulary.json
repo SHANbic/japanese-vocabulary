@@ -1990,13 +1990,6 @@
     "lesson": "l3"
   },
   {
-    "kanji": "魚",
-    "kana": "さかな",
-    "translation": "Poisson",
-    "module": "m1",
-    "lesson": "l3"
-  },
-  {
     "kanji": "三人",
     "kana": "さんにん",
     "translation": "3 personnes",
@@ -5581,13 +5574,6 @@
     "kanji": "",
     "kana": "コンピューター",
     "translation": "Ordinateur fixe",
-    "module": "m2",
-    "lesson": "l8"
-  },
-  {
-    "kanji": "魚",
-    "kana": "さかな",
-    "translation": "Poisson",
     "module": "m2",
     "lesson": "l8"
   },
