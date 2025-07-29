@@ -1,13 +1,19 @@
+"use client";
 import Image from "next/image";
 import Cta from "./components/Cta";
 import sophie from "../public/sophie-voyage-rouge.png";
 import "./globals.css";
 import MainBox from "./components/MainBox";
+import Dialog from "./components/Dialog";
+import { useEffect } from "react";
 
 export default function Home() {
-  if (process.env.NODE_ENV === "production") {
-    fetch("https://vocabulaire-objectif-japon.netlify.app/api/visits");
-  }
+  useEffect(() => {
+    if (process.env.NODE_ENV === "production") {
+      fetch("https://vocabulaire-objectif-japon.netlify.app/api/views");
+    }
+  }, []);
+
   return (
     <div id="container">
       <main>

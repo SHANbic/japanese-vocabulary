@@ -11,13 +11,13 @@ export async function GET() {
     );
     const studies = await studiesRaw.json();
 
-    const visitRaw = await fetch(
+    const viewsRaw = await fetch(
       `https://api.counterapi.dev/v1/${_namespace}/${_viewsCounter}`
     );
-    const visits = await visitRaw.json();
+    const views = await viewsRaw.json();
 
     return NextResponse.json(
-      { message: "ok", studiesCount: studies.count, visitsCount: visits.count },
+      { message: "ok", studiesCount: studies.count, viewsCount: views.count },
       {
         status: 200,
       }
