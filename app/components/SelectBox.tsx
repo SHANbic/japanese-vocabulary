@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import styles from "./box.module.css";
 
 export default function SelectBox(props: {
@@ -8,11 +8,6 @@ export default function SelectBox(props: {
 }) {
   const [selectedLesson, setSelectedLesson] = useState<string>("l1");
   const [selectedQuantity, setSelectedQuantity] = useState<string>("10");
-
-  useEffect(() => {
-    setSelectedLesson("l1");
-    setSelectedQuantity("10");
-  }, []);
 
   return (
     <div className={styles.box}>
@@ -37,6 +32,14 @@ export default function SelectBox(props: {
           <option value="l7">Leçon 7</option>
           <option value="l8">Leçon 8</option>
           <option value="m2">Toutes les leçons du module 2</option>
+        </optgroup>
+        <optgroup label="Module 3">
+          <option value="l9">Leçon 9</option>
+          <option value="l10">Leçon 10</option>
+          <option value="m3">Toutes les leçons du module 3</option>
+        </optgroup>
+        <optgroup label="Objectif Japon">
+          <option value="all">Tout le vocabulaire!</option>
         </optgroup>
       </select>
 

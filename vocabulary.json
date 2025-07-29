@@ -5928,5 +5928,1916 @@
     "translation": "Je n'ai pas compris.",
     "module": "m2",
     "lesson": "l8"
+  },
+  {
+    "kanji": "(お)店",
+    "kana": "(お)みせ",
+    "translation": "Magasin, boutique",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "[が]要ります",
+    "kana": "[が] いります",
+    "translation": "Avoir besoin de",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "[が]必要",
+    "kana": "[が] ひつよう",
+    "translation": "Nécessaire",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "~をください。",
+    "translation": "Donnez-moi ~ svp.",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "~をみせてください。",
+    "translation": "Montrez-moi ~ svp.",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "赤ちゃん",
+    "kana": "あかちゃん",
+    "translation": "Bébé",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "アクセサリー",
+    "translation": "Bijoux",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "足",
+    "kana": "あし",
+    "translation": "Les jambes, les pieds",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "頭",
+    "kana": "あたま",
+    "translation": "La tête",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "アレルギー",
+    "translation": "Allergie",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "いくらですか。",
+    "translation": "Combien ça coûte ?",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "痛い",
+    "kana": "いたい",
+    "translation": "Douloureux",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "いらっしゃいませ",
+    "translation": "\"Bienvenue dans le magasin !\"",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "インフルエンザ",
+    "translation": "Grippe",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "受付",
+    "kana": "うけつけ",
+    "translation": "Réception, accueil",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "売り場",
+    "kana": "うりば",
+    "translation": "Rayon (de magasin)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "売ります",
+    "kana": "うります",
+    "translation": "Vendre",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "エスカレーター",
+    "translation": "Escalator",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "エレベーター",
+    "translation": "Ascenseur",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "円",
+    "kana": "えん",
+    "translation": "Yen",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "鉛筆",
+    "kana": "えんぴつ",
+    "translation": "Crayon",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "お釣り",
+    "kana": "おつり",
+    "translation": "Le rendu de monnaie",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "大人",
+    "kana": "おとな",
+    "translation": "Adulte",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "お腹",
+    "kana": "おなか",
+    "translation": "Le ventre",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "玩具",
+    "kana": "おもちゃ",
+    "translation": "Jouet",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "カード",
+    "translation": "La carte bancaire",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "買います",
+    "kana": "かいます",
+    "translation": "Acheter",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "買い物",
+    "kana": "かいもの",
+    "translation": "Courses, achats",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "返します",
+    "kana": "かえします",
+    "translation": "Rendre, rembourser",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "換えます",
+    "kana": "かえます",
+    "translation": "Changer (argent)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "家具",
+    "kana": "かぐ",
+    "translation": "Meuble",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "translation": "Rhume",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "鞄",
+    "kana": "かばん",
+    "translation": "Sac",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "カフェ",
+    "translation": "Café (le lieu)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "喫茶店",
+    "kana": "きっさてん",
+    "translation": "Salon de thé",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "切手",
+    "kana": "きって",
+    "translation": "Timbre",
+    "module": "m3",
+    "lesson": "l9"
+  },
+
+  {
+    "kanji": "薬",
+    "kana": "くすり",
+    "translation": "Médicament",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "靴",
+    "kana": "くつ",
+    "translation": "Chaussures",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "靴下",
+    "kana": "くつした",
+    "translation": "Chaussettes",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "首",
+    "kana": "くび",
+    "translation": "Le cou",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ゲームセンター",
+    "translation": "Game center, salle d'arcades",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "消しゴム",
+    "kana": "けしゴム",
+    "translation": "Gomme à effacer",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "個",
+    "kana": "こ",
+    "translation": "Compteur des petites choses",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "子供",
+    "kana": "こども",
+    "translation": "Enfant",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "探します",
+    "kana": "さがします",
+    "translation": "Chercher",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "冊",
+    "kana": "さつ",
+    "translation": "Compteur des livres",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "自転車",
+    "kana": "じてんしゃ",
+    "translation": "Vélo",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "シニア",
+    "translation": "Senior",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "シャツ",
+    "translation": "Chemise",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "食品",
+    "kana": "しょくひん",
+    "translation": "Produits alimentaires",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "食器",
+    "kana": "しょっき",
+    "translation": "Vaisselle",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ステッカー",
+    "translation": "Autocollant, sticker",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "背中",
+    "kana": "せなか",
+    "translation": "Le dos",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "全部で",
+    "kana": "ぜんぶで",
+    "translation": "Au total",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "そうです。",
+    "translation": "C'est ça.",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "そうですか。",
+    "translation": "Ah bon ?",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "そうですね。",
+    "translation": "C'est cela oui (n'est-ce pas).",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "足",
+    "kana": "そく",
+    "translation": "Compteur des paires de chaussures & chaussettes",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "台",
+    "kana": "だい",
+    "translation": "Compteur des machines & véhicules",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "translation": "Amusant, agréable, plaisant",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "卵",
+    "kana": "たまご",
+    "translation": "Oeuf",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "地下",
+    "kana": "ちか",
+    "translation": "Sous-sol",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "違います",
+    "kana": "ちがいます。",
+    "translation": "Ce n'est pas ça, c'est différent.",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "着",
+    "kana": "ちゃく",
+    "translation": "Compteur des vêtements",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "駐車場",
+    "kana": "ちゅうしゃじょう",
+    "translation": "Parking",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ちょうど",
+    "translation": "Exactement",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "トイレ",
+    "translation": "Toilettes, WC (3 mots différents)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "どうしましたか。",
+    "translation": "Qu'est-ce qui vous arrive ? (quand quelqu'un se sent mal)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "動物園",
+    "kana": "どうぶつえん",
+    "translation": "Parc zoologique",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "どうも",
+    "translation": "Merci (en plus court)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "時計",
+    "kana": "とけい",
+    "translation": "Montre, horloge, pendule",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "図書館",
+    "kana": "としょかん",
+    "translation": "Bibliothèque",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ドレス",
+    "translation": "Une robe",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "荷物",
+    "kana": "にもつ",
+    "translation": "Colis, bagage",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ね",
+    "translation": "Particule pour dire \"n'est-ce pas ?\"",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ネクタイ",
+    "translation": "Cravatte",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "熱",
+    "kana": "ねつ",
+    "translation": "Fièvre",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ノート",
+    "translation": "Cahier, carnet",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "喉",
+    "kana": "のど",
+    "translation": "La gorge",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "葉書",
+    "kana": "はがき",
+    "translation": "Carte postale",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "バナナ",
+    "translation": "Banane",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "払います",
+    "kana": "はらいます",
+    "translation": "Payer",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "膝",
+    "kana": "ひざ",
+    "translation": "Les genoux",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "病気",
+    "kana": "びょうき",
+    "translation": "Maladie",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "封筒",
+    "kana": "ふうとう",
+    "translation": "Enveloppe",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "服",
+    "kana": "ふく",
+    "translation": "Vêtements",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "袋",
+    "kana": "ふくろ",
+    "translation": "Sac, sachet",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "筆",
+    "kana": "ふで",
+    "translation": "Pinceau",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ペン",
+    "translation": "Stylo",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "本",
+    "kana": "ほん",
+    "translation": "Compteur des choses longues et cylindriques",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "枚",
+    "kana": "まい",
+    "translation": "Compteur des objets plats",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "マスク",
+    "translation": "Masque",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "耳栓",
+    "kana": "みみせん",
+    "translation": "Bouchons d'oreilles (Boules Quies)",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "向こう",
+    "kana": "むこう",
+    "translation": "En face",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "無料",
+    "kana": "むりょう",
+    "translation": "Gratuit",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "眼鏡",
+    "kana": "めがね",
+    "translation": "Lunettes",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "安い",
+    "kana": "やすい",
+    "translation": "Peu cher, bon marché",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "休み",
+    "kana": "やすみ",
+    "translation": "Les vacances",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "休みます",
+    "kana": "やすみます",
+    "translation": "Se reposer",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "薬局",
+    "kana": "やっきょく",
+    "translation": "Pharmacie",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "遊園地",
+    "kana": "ゆうえんち",
+    "translation": "Terrain de jeux, parc d'attractions",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "よ",
+    "translation": "Particule pour insister sur une information",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "幼児",
+    "kana": "ようじ",
+    "translation": "Petit enfant",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "横",
+    "kana": "よこ",
+    "translation": "Le côté",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "旅行",
+    "kana": "りょこう",
+    "translation": "Voyage",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "冷蔵庫",
+    "kana": "れいぞうこ",
+    "translation": "Réfrigérateur",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "レストラン",
+    "translation": "Restaurant",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "",
+    "kana": "ワイン",
+    "translation": "Vin",
+    "module": "m3",
+    "lesson": "l9"
+  },
+  {
+    "kanji": "ワイン売り場",
+    "kana": "ワインうりば",
+    "translation": "Le rayon vin",
+    "module": "m3",
+    "lesson": "l9"
+  },
+
+  {
+    "kanji": "(お)箸",
+    "kana": "(お)はし",
+    "translation": "Baguettes (pour manger)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "(に) 聞きます",
+    "kana": "(に) ききます",
+    "translation": "Demander (à qqn)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "(に) 座ります",
+    "kana": "(に) すわります",
+    "translation": "S'assoir (quelque part)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "XXX が壊れています",
+    "kana": "XXX がこわれています。",
+    "translation": "Le/La XXX est cassé.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "XXX が使えません。",
+    "kana": "XXX が つかえません。",
+    "translation": "Je ne peux pas utiliser XXX.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "XXX 号室",
+    "kana": "XXX ごうしつ",
+    "translation": "Numéro de chambre XXX",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "赤ワイン",
+    "kana": "あかワイン",
+    "translation": "Vin rouge",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "アップルジュース",
+    "translation": "Jus de pomme",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "アレルギー",
+    "translation": "Allergie",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "いただきます。",
+    "translation": "Je suis reconnaissant(e) pour ce repas. (Formule à dire avant de manger)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "苺",
+    "kana": "いちご",
+    "translation": "Fraise",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "一泊",
+    "kana": "いっぱく",
+    "translation": "1 nuit",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "いらっしゃいませ。",
+    "translation": "Bienvenue dans notre établissement.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ヴィーガン",
+    "translation": "Vegan",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ウイスキー",
+    "translation": "Whisky",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "牛",
+    "kana": "うし、ぎゅう",
+    "translation": "Vache",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "エアコン",
+    "translation": "Air conditionné, climatisation",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "英語",
+    "kana": "えいご",
+    "translation": "L'anglais",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "海老",
+    "kana": "えび",
+    "translation": "Crevette",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "おあずかりします。",
+    "translation": "Expression de respect pour signifier que l'on prend en charge quelque chose (un passeport,de l'argent, etc)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お会計お願いします。",
+    "kana": "おかいけいおねがいします。",
+    "translation": "L'addition svp.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お客様",
+    "kana": "おきゃくさま",
+    "translation": "Vénérable client",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お酒",
+    "kana": "おさけ",
+    "translation": "Alcool",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "教えてください。",
+    "kana": "おしえてください。",
+    "translation": "Expliquez-moi, enseignez-moi svp.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お支払い",
+    "kana": "おしはらい",
+    "translation": "Le paiement",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "押します",
+    "kana": "おします",
+    "translation": "Presser, pousser",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "おすすめは？",
+    "translation": "Quelles sont vos recommandations ?",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お茶",
+    "kana": "おちゃ",
+    "translation": "Thé",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お名前",
+    "kana": "おなまえ",
+    "translation": "Votre nom",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お水",
+    "kana": "おみず",
+    "translation": "Eau",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "オムライス",
+    "translation": "Omelette au riz japonaise",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お湯",
+    "kana": "おゆ",
+    "translation": "Eau chaude",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "お湯が出ません。",
+    "kana": "おゆがでません。",
+    "translation": "L'eau chaude ne sort pas.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "オレンジジュース",
+    "translation": "Jus d'orange",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "温泉",
+    "kana": "おんせん",
+    "translation": "Source d'eau chaude japonaise",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "カード",
+    "translation": "Carte",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "カードで払います",
+    "kana": "カードではらいます。",
+    "translation": "Je paye par carte.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鍵",
+    "kana": "かぎ",
+    "translation": "Clé",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "かしこまりました。",
+    "translation": "Entendu, certainement.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "蟹",
+    "kana": "かに",
+    "translation": "Crabe",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "カフェオレ",
+    "translation": "Café au lait",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "カプチーノ",
+    "translation": "Capuccino",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "カレー",
+    "translation": "Curry",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "かんぱい！",
+    "translation": "Santé !",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "牛肉",
+    "kana": "ぎゅうにく",
+    "translation": "Viande de boeuf",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "translation": "Lait de vache",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "きゅうり",
+    "translation": "Concombre",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "切ります",
+    "kana": "きります",
+    "translation": "Couper",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "空港",
+    "kana": "くうこう",
+    "translation": "Aéroport",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "果物",
+    "kana": "くだもの",
+    "translation": "Fruits",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "現金で",
+    "kana": "げんきん",
+    "translation": "Espèces, argent liquide",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "現金で",
+    "kana": "げんきんではらいます。",
+    "translation": "Je paye en espèces.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "紅茶",
+    "kana": "こうちゃ",
+    "translation": "Thé noir",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "コーヒー",
+    "translation": "Café",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "コーラ",
+    "translation": "Coca Cola",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ココア",
+    "translation": "Chocolat chaud, cacao",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "ご住所",
+    "kana": "ごじゅうしょ",
+    "translation": "Votre adresse",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "ご職業",
+    "kana": "ごしょくぎょう",
+    "translation": "Votre profession",
+    "module": "m3",
+    "lesson": "l10"
+  },
+
+  {
+    "kanji": "",
+    "kana": "ごちそうさまでした。",
+    "translation": "C'était un festin. (Formule à dire après un repas)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+
+  {
+    "kanji": "ご注文は",
+    "kana": "ごちゅうもんは？",
+    "translation": "Quelle est votre commande ?",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "ご飯",
+    "kana": "ごはん",
+    "translation": "Repas, riz cuit",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "胡麻",
+    "kana": "ごま",
+    "translation": "Sésame",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "米",
+    "kana": "こめ",
+    "translation": "Riz (cru)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ごゆっくりおすごしください。",
+    "translation": "Veuillez passer un bon séjour.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "サイン",
+    "translation": "Signature",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "魚",
+    "kana": "さかな",
+    "translation": "Poisson",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鮭",
+    "kana": "さけ",
+    "translation": "Saumon",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "サラダ",
+    "translation": "Salade",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "サンドイッチ",
+    "translation": "Sandwich",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "自動販売機",
+    "kana": "じどうはんばいき",
+    "translation": "Distributeur automatique",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "じゃがいも",
+    "translation": "Pomme de terre",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "シャトルバス",
+    "translation": "Navette de bus",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "シャワー",
+    "translation": "Douche",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ジュース",
+    "translation": "Jus de fruit",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "少々お待ちください。",
+    "kana": "しょうしょうおまちください。",
+    "translation": "Attendez un peu svp.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "食事",
+    "kana": "しょくじ",
+    "translation": "Repas",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "食事します",
+    "kana": "しょくじします",
+    "translation": "Prendre un repas, manger",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "白ワイン",
+    "kana": "しろワイン",
+    "translation": "Vin blanc",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "シングルルーム",
+    "translation": "Chambre single",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "すいか",
+    "translation": "Pastèque",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "スプーン",
+    "translation": "Cuillère",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "洗濯します",
+    "kana": "せんたくします",
+    "translation": "Faire la lessive",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "洗濯機",
+    "kana": "せんたくき",
+    "translation": "Machine à laver",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "掃除",
+    "kana": "そうじ",
+    "translation": "Ménage",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "掃除します",
+    "kana": "そうじします",
+    "translation": "Faire le ménage",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ソフトドリンク",
+    "translation": "Boisson sans alcool (soft)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "タオル",
+    "translation": "Serviette",
+    "module": "m3",
+    "lesson": "l10"
+  },
+
+  {
+    "kanji": "",
+    "kana": "ダブルルーム",
+    "translation": "Chambre double",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "食べ物",
+    "kana": "たべもの",
+    "translation": "Nourriture",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "卵",
+    "kana": "たまご",
+    "translation": "Oeuf",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "玉ねぎ",
+    "kana": "たまねぎ",
+    "translation": "Oignon",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "チェックアウト",
+    "translation": "Check-out",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "チェックイン",
+    "translation": "Check-in",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "チキン",
+    "translation": "Poulet (viande)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "朝食",
+    "kana": "ちょうしょく",
+    "translation": "Petit-déjeuner",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ツインルーム",
+    "translation": "Chambre twin",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "使い方",
+    "kana": "つかいかた",
+    "translation": "La manière d'utiliser",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "使い方を教えてください。",
+    "kana": "つかいかたをおしえてください。",
+    "translation": "Expliquez-moi la manière de l'utiliser svp.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "使います",
+    "kana": "つかいます",
+    "translation": "utiliser",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "定食",
+    "kana": "ていしょく",
+    "translation": "Menu (à prix fixe)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ティッシュペーパー",
+    "translation": "Mouchoirs en papier",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "トイレットペーパー",
+    "translation": "Papier toilette",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "どうやって",
+    "translation": "De quelle manière",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "トマト",
+    "translation": "Tomate",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鳥",
+    "kana": "とり",
+    "translation": "Oiseau",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鳥肉",
+    "kana": "とりにく",
+    "translation": "Viande de volaille (poulet)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ナイフ",
+    "translation": "Couteau",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "梨",
+    "kana": "なし",
+    "translation": "Poire japonaise",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "なす",
+    "translation": "Aubergine",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "何名様ですか",
+    "kana": "なんめいさまですか。",
+    "translation": "Combien de personnes êtes-vous ?",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "肉",
+    "kana": "にく",
+    "translation": "Viande",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "日本語",
+    "kana": "にほんご",
+    "translation": "Le japonais",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "日本酒",
+    "kana": "にほんしゅ",
+    "translation": "Saké japonais (alcool de riz)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "人参",
+    "kana": "にんじん",
+    "translation": "Carotte",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "脱ぎます",
+    "kana": "ぬぎます",
+    "translation": "Se déshabiller",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "飲み物",
+    "kana": "のみもの",
+    "translation": "Boisson",
+    "module": "m3",
+    "lesson": "l10"
+  },
+
+  {
+    "kanji": "杯",
+    "kana": "はい",
+    "translation": "Compteur des boissons contenues dans des verres ou tasses",
+    "module": "m3",
+    "lesson": "l10"
+  },
+
+  {
+    "kanji": "泊",
+    "kana": "はく",
+    "translation": "Compteur des nuitées",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鋏",
+    "kana": "はさみ",
+    "translation": "Ciseaux",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "パスタ",
+    "translation": "Pâtes",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "パスポート",
+    "translation": "Passeport",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "バナナ",
+    "translation": "Banane",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ハム",
+    "translation": "Jambon",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ハラル",
+    "translation": "Halal",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "番号",
+    "kana": "ばんごう",
+    "translation": "Numéro",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ピーナッツ",
+    "translation": "Cacahuète",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ビール",
+    "translation": "Bière",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ピザ",
+    "translation": "Pizza",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "フォーク",
+    "translation": "Fourchette",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "豚肉",
+    "kana": "ぶたにく",
+    "translation": "Viande de porc",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "葡萄",
+    "kana": "ぶどう",
+    "translation": "Raisin",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "フランス語",
+    "kana": "フランスご",
+    "translation": "Le français",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ベジタリアン",
+    "translation": "Végétarien",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "別々にお願いします。",
+    "kana": "べつべつにおねがいします。",
+    "translation": "Nous payons séparément svp.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ホテル",
+    "translation": "Hôtel",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "枕",
+    "kana": "まくら",
+    "translation": "Oreiller",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "鮪",
+    "kana": "まぐろ",
+    "translation": "Thon",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "間違いないでしょうか。",
+    "kana": "まちがいないでしょうか。",
+    "translation": "Il n'y a pas d'erreur, n'est-ce pas ?",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "待ちます",
+    "kana": "まちます",
+    "translation": "Attendre",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "満席です",
+    "kana": "まんせきです。",
+    "translation": "C'est complet.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "みかん",
+    "translation": "Mandarine, clémentine",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "見せます",
+    "kana": "みせます",
+    "translation": "Montrer",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "メニュー",
+    "translation": "Menu (carte de restaurant)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "メロン",
+    "translation": "Melon",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "桃",
+    "kana": "もも",
+    "translation": "Pêche",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "問題",
+    "kana": "もんだい",
+    "translation": "Un problème",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "問題があります。",
+    "kana": "もんだいがあります。",
+    "translation": "J'ai un problème / Il y a un problème.",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "野菜",
+    "kana": "やさい",
+    "translation": "Légumes",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "夕食",
+    "kana": "ゆうしょく",
+    "translation": "Dîner",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ゆっくり",
+    "translation": "Lentement, tranquillement, doucement",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "洋食",
+    "kana": "ようしょく",
+    "translation": "Repas occidental",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "呼ぶマス",
+    "kana": "よびます",
+    "translation": "Appeler (qqn)",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "読み方",
+    "kana": "よみかた",
+    "translation": "La manière de lire",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "予約",
+    "kana": "よやく",
+    "translation": "Réservation",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "予約します",
+    "kana": "よやくします",
+    "translation": "Faire une réservation, réserver",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "料理",
+    "kana": "りょうり",
+    "translation": "Cuisine, plat",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "旅館",
+    "kana": "りょかん",
+    "translation": "Auberge japonaise",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "林檎",
+    "kana": "りんご",
+    "translation": "Pomme",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "レストラン",
+    "translation": "Restaurant",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "レタス",
+    "translation": "Laitue",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "レモン",
+    "translation": "Citron",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "",
+    "kana": "ワイン",
+    "translation": "Vin",
+    "module": "m3",
+    "lesson": "l10"
+  },
+  {
+    "kanji": "和食",
+    "kana": "わしょく",
+    "translation": "Repas japonais",
+    "module": "m3",
+    "lesson": "l10"
   }
 ]

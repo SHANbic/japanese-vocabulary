@@ -12,7 +12,9 @@ export default function MainBox() {
 
   const handleClick = (lesson: string, quantity: string) => {
     const selectedVocabulary = (_vocabulary as IVocabulary[]).filter((item) => {
-      if (lesson.startsWith("l")) {
+      if (lesson === "all") {
+        return true;
+      } else if (lesson.startsWith("l")) {
         return item.lesson === lesson;
       } else if (lesson.startsWith("m")) {
         return item.module === lesson;
