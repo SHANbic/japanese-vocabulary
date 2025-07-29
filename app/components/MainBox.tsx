@@ -11,6 +11,10 @@ export default function MainBox() {
   const [vocabulary, setVocabulary] = useState<IVocabulary[] | null>(null);
 
   const handleClick = (lesson: string, quantity: string) => {
+    if (process.env.NODE_ENV === "production") {
+      fetch("https://vocabulaire-objectif-japon.netlify.app/api/studies");
+    }
+
     const selectedVocabulary = (_vocabulary as IVocabulary[]).filter((item) => {
       if (lesson === "all") {
         return true;

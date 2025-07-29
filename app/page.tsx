@@ -5,6 +5,9 @@ import "./globals.css";
 import MainBox from "./components/MainBox";
 
 export default function Home() {
+  if (process.env.NODE_ENV === "production") {
+    fetch("https://vocabulaire-objectif-japon.netlify.app/api/visits");
+  }
   return (
     <div id="container">
       <main>
