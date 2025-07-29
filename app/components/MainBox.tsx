@@ -6,9 +6,12 @@ import SelectBox from "./SelectBox";
 import _vocabulary from "../../vocabulary.json";
 import { IVocabulary } from "../types";
 import { shuffle } from "lib/utils";
+import Dialog from "./Dialog";
 
 export default function MainBox() {
   const [vocabulary, setVocabulary] = useState<IVocabulary[] | null>(null);
+  const [isFirstRun, setIsFirstRun] = useState(true);
+  const [shouldDisplayDialog, setShouldDisplayDialog] = useState(false);
 
   const handleClick = (lesson: string, quantity: string) => {
     if (process.env.NODE_ENV === "production") {
@@ -40,10 +43,27 @@ export default function MainBox() {
   return (
     <div>
       {vocabulary ? (
-        <GuessBox reset={() => setVocabulary(null)} vocabulary={vocabulary} />
+        <GuessBox
+          reset={() => {
+            setVocabulary(null);
+            if (isFirstRun) {
+              setIsFirstRun(false);
+              setShouldDisplayDialog(true);
+            }
+          }}
+          vocabulary={vocabulary}
+        />
       ) : (
         <SelectBox handleClick={handleClick} />
       )}
+      {
+        <Dialog
+          isOpen={shouldDisplayDialog}
+          onClick={() => {
+            setShouldDisplayDialog(false);
+          }}
+        />
+      }
     </div>
   );
 }
