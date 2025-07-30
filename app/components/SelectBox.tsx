@@ -39,7 +39,7 @@ export default function SelectBox(props: {
           <option value="m3">Toutes les leçons du module 3</option>
         </optgroup>
         <optgroup label="Objectif Japon">
-          <option value="all">Tout le vocabulaire!</option>
+          <option value="all">Tout les modules!</option>
         </optgroup>
       </select>
 
