@@ -3,6 +3,52 @@
 import { useState } from "react";
 import styles from "./box.module.css";
 
+const modules = [
+  {
+    label: "Module 1",
+    options: [
+      { value: "l1", text: "Leçon 1" },
+      { value: "l2", text: "Leçon 2" },
+      { value: "l3", text: "Leçon 3" },
+      { value: "l4", text: "Leçon 4" },
+      { value: "m1", text: "Toutes les leçons du module 1" },
+    ],
+  },
+  {
+    label: "Module 2",
+    options: [
+      { value: "l5", text: "Leçon 5" },
+      { value: "l6", text: "Leçon 6" },
+      { value: "l7", text: "Leçon 7" },
+      { value: "l8", text: "Leçon 8" },
+      { value: "m2", text: "Toutes les leçons du module 2" },
+    ],
+  },
+  {
+    label: "Module 3",
+    options: [
+      { value: "l9", text: "Leçon 9" },
+      { value: "l10", text: "Leçon 10" },
+      { value: "l11", text: "Leçon 11" },
+      { value: "m3", text: "Toutes les leçons du module 3" },
+    ],
+  },
+  {
+    label: "Objectif Japon",
+    options: [{ value: "all", text: "Tout les modules!" }],
+  },
+];
+
+function Options() {
+  return modules.map((module) => (
+    <optgroup label={module.label}>
+      {module.options.map((option) => (
+        <option value={option.value}>{option.text}</option>
+      ))}
+    </optgroup>
+  ));
+}
+
 export default function SelectBox(props: {
   handleClick: (a: string, b: string) => void;
 }) {
@@ -19,28 +65,7 @@ export default function SelectBox(props: {
         value={selectedLesson}
         className="select"
       >
-        <optgroup label="Module 1">
-          <option value="l1">Leçon 1</option>
-          <option value="l2">Leçon 2</option>
-          <option value="l3">Leçon 3</option>
-          <option value="l4">Leçon 4</option>
-          <option value="m1">Toutes les leçons du module 1</option>
-        </optgroup>
-        <optgroup label="Module 2">
-          <option value="l5">Leçon 5</option>
-          <option value="l6">Leçon 6</option>
-          <option value="l7">Leçon 7</option>
-          <option value="l8">Leçon 8</option>
-          <option value="m2">Toutes les leçons du module 2</option>
-        </optgroup>
-        <optgroup label="Module 3">
-          <option value="l9">Leçon 9</option>
-          <option value="l10">Leçon 10</option>
-          <option value="m3">Toutes les leçons du module 3</option>
-        </optgroup>
-        <optgroup label="Objectif Japon">
-          <option value="all">Tout les modules!</option>
-        </optgroup>
+        <Options />
       </select>
 
       <div className="mt-8">
