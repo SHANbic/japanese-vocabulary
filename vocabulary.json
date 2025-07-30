@@ -7839,5 +7839,460 @@
     "translation": "Repas japonais",
     "module": "m3",
     "lesson": "l10"
+  },
+  {
+    "kanji": "(に) 乗り換えます",
+    "kana": "（に）のりかえます",
+    "translation": "Changer (de véhicule)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "(に) 乗ります",
+    "kana": "（に）のります",
+    "translation": "Monter (dans un véhicule)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "(を)降ります",
+    "kana": "（を）おります",
+    "translation": "Descendre (d'un véhicule)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一時間",
+    "kana": "いちじかん",
+    "translation": "Pendant 1 heure",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一日",
+    "kana": "いちにち",
+    "translation": "Pendant 1 jour",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一日パス",
+    "kana": "いちにちパス",
+    "translation": "Pass à la journée",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一番",
+    "kana": "いちばん",
+    "translation": "1er",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一回",
+    "kana": "いっかい",
+    "translation": "1 fois",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一か月",
+    "kana": "いっかげつ",
+    "translation": "Pendant 1 mois",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一週間",
+    "kana": "いっしゅうかん",
+    "translation": "Pendant 1 semaine",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "一分",
+    "kana": "いっぷん",
+    "translation": "Pendant 1 minute",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "入口",
+    "kana": "いりぐち",
+    "translation": "Entrée",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "入れます",
+    "kana": "いれます",
+    "translation": "Insérer, mettre dedans",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "",
+    "kana": "エアメール",
+    "translation": "Airmail (courrier)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "終わります",
+    "kana": "おわります",
+    "translation": "Se terminer, se finir",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "快速",
+    "kana": "かいそく",
+    "translation": "Train rapide",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "書留",
+    "kana": "かきとめ",
+    "translation": "Envoi recommandé",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "黄色い線",
+    "kana": "きいろいせん",
+    "translation": "La ligne jaune",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "切符",
+    "kana": "きっぷ",
+    "translation": "Ticket (transports)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "急行",
+    "kana": "きゅうこう",
+    "translation": "Train express",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "券売機",
+    "kana": "けんばいき",
+    "translation": "Machine à tickets",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "",
+    "kana": "コインロッカー",
+    "translation": "Consigne automatique",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "航空便",
+    "kana": "こうくうびん",
+    "translation": "Envoi par avion",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "時刻表",
+    "kana": "じこくひょう",
+    "translation": "Tableau des horaires",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "自由席",
+    "kana": "じゆうせき",
+    "translation": "Sièges libres (sans réservation)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "終電",
+    "kana": "しゅうでん",
+    "translation": "Le dernier train",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "新幹線",
+    "kana": "しんかんせん",
+    "translation": "TGV japonais",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "線",
+    "kana": "せん",
+    "translation": "Ligne (de train, etc)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "速達",
+    "kana": "そくたつ",
+    "translation": "Envoi express",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "",
+    "kana": "だけ",
+    "translation": "Seulement",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "出します",
+    "kana": "だします",
+    "translation": "Sortir (un objet), extraire, envoyer",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "",
+    "kana": "チケット",
+    "translation": "Ticket (transports, concert, etc)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "次(の)",
+    "kana": "つぎ（の）",
+    "translation": "Le prochain, le suivant",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "出かけます",
+    "kana": "でかけます",
+    "translation": "Faire une sortie",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "出口",
+    "kana": "でぐち",
+    "translation": "Sortie",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "出ます",
+    "kana": "でます",
+    "translation": "Sortir (d'un lieu)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "translation": "Train",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "特急",
+    "kana": "とっきゅう",
+    "translation": "Train spécial express",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "どのくらい",
+    "kana": "どのくらい",
+    "translation": "Combien de temps (en général) ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "止まります",
+    "kana": "とまります",
+    "translation": "S'arrêter",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何回",
+    "kana": "なんかい",
+    "translation": "Combien de fois ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何か月",
+    "kana": "なんかげつ",
+    "translation": "Combien de mois ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何時間",
+    "kana": "なんじかん",
+    "translation": "Combien d'heures ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何週間",
+    "kana": "なんしゅうかん",
+    "translation": "Combien de semaines ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何日",
+    "kana": "なんにち",
+    "translation": "Combien de jours ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何番線",
+    "kana": "なんばんせん",
+    "translation": "Quel numéro de voie ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "何分",
+    "kana": "なんぷん",
+    "translation": "Combien de minutes ?",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "二回",
+    "kana": "にかい",
+    "translation": "2 fois",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "二番",
+    "kana": "にばん",
+    "translation": "2ème",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "乗り換え",
+    "kana": "のりかえ",
+    "translation": "Changement, correspondance",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "乗り場",
+    "kana": "のりば",
+    "translation": "Endroit où l'on monte (bus, taxi)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "乗り物",
+    "kana": "のりもの",
+    "translation": "Les transports, les véhicules",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "入ります",
+    "kana": "はいります",
+    "translation": "Entrer (dans un lieu)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "バス停",
+    "kana": "バスてい",
+    "translation": "Arrêt de bus",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "番",
+    "kana": "ばん",
+    "translation": "Numéro",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "普通",
+    "kana": "ふつう",
+    "translation": "Train omnibus",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "普通郵便",
+    "kana": "ふつうゆうびん",
+    "translation": "Envoi normal",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "船便",
+    "kana": "ふなびん",
+    "translation": "Envoi par bateau",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "間違えます",
+    "kana": "まちがえます",
+    "translation": "Se tromper",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "窓口",
+    "kana": "まどぐち",
+    "translation": "Guichet",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "間もなく",
+    "kana": "まもなく",
+    "translation": "Bientôt, dans un instant (formel)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "",
+    "kana": "モノレール",
+    "translation": "Monorail",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "忘れます",
+    "kana": "わすれます",
+    "translation": "Oublier",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "忘れ物",
+    "kana": "わすれもの",
+    "translation": "Affaire oubliée (objet oublié)",
+    "module": "m3",
+    "lesson": "l11"
+  },
+  {
+    "kanji": "忘れ物センター",
+    "kana": "わすれものセンター",
+    "translation": "Bureau des objets trouvés",
+    "module": "m3",
+    "lesson": "l11"
   }
 ]
