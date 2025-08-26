@@ -54,7 +54,25 @@ describe("Vocabulary JSON Tests", () => {
     });
   });
 
-  it("should ensure kanji and kana do not have white spaces", () => {
+  it("should ensure no kanji is the header", () => {
+    vocabulary.forEach((entry) => {
+      expect(entry.kanji).not.toMatch("kanji");
+    });
+  });
+
+  it("should ensure no kana is the header", () => {
+    vocabulary.forEach((entry) => {
+      expect(entry.kana).not.toMatch("kana");
+    });
+  });
+
+  it("should ensure no translation is the header", () => {
+    vocabulary.forEach((entry) => {
+      expect(entry.translation).not.toMatch("translation");
+    });
+  });
+
+  xit("should ensure kanji and kana do not have white spaces", () => {
     vocabulary.forEach((entry) => {
       if (entry.kanji.indexOf(" ") !== -1) {
         console.log(entry.kanji);

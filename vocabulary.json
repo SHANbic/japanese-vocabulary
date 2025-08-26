@@ -8294,5 +8294,279 @@
     "translation": "Bureau des objets trouvés",
     "module": "m3",
     "lesson": "l11"
+  },
+
+  {
+    "kanji": "[お] 引き出し",
+    "kana": "[お] ひきだし",
+    "translation": "Un retrait d'argent",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "[道 に] 迷っています。",
+    "kana": "[みち に] まよっています。",
+    "translation": "Je suis perdu(e).",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "青信号",
+    "kana": "あおしんごう",
+    "translation": "Feu vert",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "赤信号",
+    "kana": "あかしんごう",
+    "translation": "Feu rouge",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "後で",
+    "kana": "あとで",
+    "translation": "Plus tard",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "雨",
+    "kana": "あめ",
+    "translation": "La pluie",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "暗証番号",
+    "kana": "あんしょうばんごう",
+    "translation": "Numéro secret, code secret",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "教えます",
+    "kana": "おしえます",
+    "translation": "Enseigner",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "押します",
+    "kana": "おします",
+    "translation": "Pousser, presser",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "確認",
+    "kana": "かくにん",
+    "translation": "Vérification, confirmation",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "風",
+    "kana": "かぜ",
+    "translation": "Le vent",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "角",
+    "kana": "かど",
+    "translation": "Coin, angle",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "キャッシュカード",
+    "translation": "Carte de paiement",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "金額",
+    "kana": "きんがく",
+    "translation": "Montant, somme d'argent",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "雲",
+    "kana": "くも",
+    "translation": "Un nuage",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "曇り",
+    "kana": "くもり",
+    "translation": "Nuageux",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "結婚しています",
+    "kana": "けっこんしています",
+    "translation": "Être marié(e)",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "最後に",
+    "kana": "さいごに",
+    "translation": "Pour terminer",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "知っています",
+    "kana": "しっています",
+    "translation": "Connaître, être au courant",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "信号",
+    "kana": "しんごう",
+    "translation": "Feu de signalisation",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "すぐ",
+    "translation": "Immédiatement, tout de suite",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "住んでいます",
+    "kana": "すんでいます",
+    "translation": "Habiter, résider",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "そして",
+    "translation": "Et puis, ensuite",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "その後",
+    "kana": "そのあと",
+    "translation": "Après cela",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "それから",
+    "translation": "Et ensuite, et après",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "次に",
+    "kana": "つぎに",
+    "translation": "Ensuite, puis",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "強い",
+    "kana": "つよい",
+    "translation": "Fort",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "止めます",
+    "kana": "とめます",
+    "translation": "Arrêter, stationner",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "晴れ",
+    "kana": "はれ",
+    "translation": "Beau temps, ensoleillé",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "降ります",
+    "kana": "ふります",
+    "translation": "Pleuvoir, tomber (neige ou pluie)",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "ボタン",
+    "translation": "Bouton",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "曲がります",
+    "kana": "まがります",
+    "translation": "Tourner, courber",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "先ず",
+    "kana": "まず",
+    "translation": "D'abord, en premier lieu",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "",
+    "kana": "まっすぐ",
+    "translation": "Tout droit",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "見えます",
+    "kana": "みえます",
+    "translation": "Apercevoir, voir",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "道",
+    "kana": "みち",
+    "translation": "Rue, chemin",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "持っています",
+    "kana": "もっています",
+    "translation": "Posséder (un objet)",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "雪",
+    "kana": "ゆき",
+    "translation": "La neige",
+    "module": "m3",
+    "lesson": "l12"
+  },
+  {
+    "kanji": "渡ります",
+    "kana": "わたります",
+    "translation": "Traverser (pont, rue)",
+    "module": "m3",
+    "lesson": "l12"
   }
 ]

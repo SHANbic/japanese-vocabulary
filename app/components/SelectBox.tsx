@@ -30,6 +30,7 @@ const modules = [
       { value: "l9", text: "Leçon 9" },
       { value: "l10", text: "Leçon 10" },
       { value: "l11", text: "Leçon 11" },
+      { value: "l12", text: "Leçon 12" },
       { value: "m3", text: "Toutes les leçons du module 3" },
     ],
   },
