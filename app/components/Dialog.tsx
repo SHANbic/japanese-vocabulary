@@ -27,8 +27,11 @@ export default function Dialog({
         X fermer
       </button>
       <p className="text-white text-2xl font-black text-center px-4">
-        Précommandez le livre de Sophie Thomas aujourd&apos;hui et débloquez un
-        bonus exclusif !
+        Commandez le livre de{" "}
+        <strong className="uppercase text-red-200">Sophie Thomas</strong> et
+        profitez de tout le contenu{" "}
+        <strong className="uppercase text-red-200">Objectif Japon</strong> au
+        format papier!
       </p>
       <Image
         src={livre}
@@ -37,8 +40,8 @@ export default function Dialog({
         height={500}
       />
       <Cta
-        href="https://preco.editions-eyrolles.com/sophie-thomas137335"
-        text="Je découvre"
+        href="https://www.fnac.com/a21518987/Sophie-Thomas-Objectif-Japon"
+        text="Commander à la FNAC"
         onClick={() => {
           if (process.env.NODE_ENV === "production") {
             fetch(
