@@ -8568,5 +8568,334 @@
     "translation": "Traverser (pont, rue)",
     "module": "m3",
     "lesson": "l12"
+  },
+  {
+    "kanji": "(に) 触ります",
+    "kana": "(に) さわります",
+    "translation": "Toucher",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "(に) 登ります",
+    "kana": "(に) のぼります",
+    "translation": "Escalader, grimper",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "[が] できます",
+    "translation": "Pouvoir, être capable de",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "甘い",
+    "kana": "あまい",
+    "translation": "Doux, sucré",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "言います",
+    "kana": "いいます",
+    "translation": "Dire",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "translation": "Occupé",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "団扇",
+    "kana": "うちわ",
+    "translation": "Eventail arrondi japonais",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "海",
+    "kana": "うみ",
+    "translation": "La mer",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "運転します",
+    "kana": "うんてんします",
+    "translation": "Conduire",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "エッフェル塔",
+    "kana": "エッフェルとう",
+    "translation": "La Tour Eiffel",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "置きます",
+    "kana": "おきます",
+    "translation": "Poser",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "お寺",
+    "kana": "おてら",
+    "translation": "Temple bouddhique",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "掛けます",
+    "kana": "かけます",
+    "translation": "Porter des lunettes, accrocher",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "被ります",
+    "kana": "かぶります",
+    "translation": "Porter un chapeau",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "神",
+    "kana": "かみ",
+    "translation": "Un dieu, des dieux",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "空 （の）",
+    "kana": "から（の）",
+    "translation": "Vide",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "辛い",
+    "kana": "からい",
+    "translation": "Epicé",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "観光",
+    "kana": "かんこう",
+    "translation": "Le tourisme",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "観光客",
+    "kana": "かんこうきゃく",
+    "translation": "Un touriste",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "着ます",
+    "kana": "きます",
+    "translation": "Porter un vêtement",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "禁煙",
+    "kana": "きんえん",
+    "translation": "Non-fumeur, interdit de fumer",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "こけし",
+    "translation": "Poupée japonaise en bois",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "シーサー",
+    "translation": "Statuettes représentant des chiens-lions posées sur les toits des maisons traditionnelles",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "質問します",
+    "kana": "しつもんします",
+    "translation": "Poser une question",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "神社",
+    "kana": "じんじゃ",
+    "translation": "Un sanctuaire shintô",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "吸います",
+    "kana": "すいます",
+    "translation": "Aspirer",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "空",
+    "kana": "そら、から",
+    "translation": "Le ciel",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "畳",
+    "kana": "たたみ",
+    "translation": "Revêtement de sol traditionnel",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "たばこ",
+    "translation": "Tabac, cigarette",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "だるま",
+    "translation": "Figurine à voeux ayant la forme d'un moine bouddhiste",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "近い",
+    "kana": "ちかい",
+    "translation": "Proche, près",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "東京スカイツリー",
+    "kana": "とうきょうスカイツリー",
+    "translation": "La Tôkyô Sky Tree",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "東京タワー",
+    "kana": "とうきょうタワー",
+    "translation": "La Tour de Tôkyô",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "遠い",
+    "kana": "とおい",
+    "translation": "Loin, éloigné",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "暖簾",
+    "kana": "のれん",
+    "translation": "Rideau que l'on retrouve dans les onsen",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "履きます",
+    "kana": "はきます",
+    "translation": "Porter (chaussures, pantalons, etc)",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "初めて",
+    "kana": "はじめて",
+    "translation": "La première fois",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "走ります",
+    "kana": "はしります",
+    "translation": "Courir",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "暇",
+    "kana": "ひま",
+    "translation": "Libre (avoir du temps)",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "風鈴",
+    "kana": "ふうりん",
+    "translation": "Carillon",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "まだ",
+    "translation": "Pas encore",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "招き猫",
+    "kana": "まねきねこ",
+    "translation": "Statuette représentant un chat assis et levant la patte",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "昔",
+    "kana": "むかし",
+    "translation": "Autrefois, dans l'ancien temps",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "もう",
+    "translation": "Déjà",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "持っていきます",
+    "kana": "もっていきます",
+    "translation": "Emporter",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "持ってきます",
+    "kana": "もってきます",
+    "translation": "Apporter",
+    "module": "m3",
+    "lesson": "l13"
+  },
+  {
+    "kanji": "",
+    "kana": "より",
+    "translation": "Particule de comparaison (par rapport à)",
+    "module": "m3",
+    "lesson": "l13"
   }
 ]
