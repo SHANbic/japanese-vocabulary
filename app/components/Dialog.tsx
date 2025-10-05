@@ -16,7 +16,7 @@ export default function Dialog({
         onClick();
       }}
       className={`fixed top-0 left-0 bg-opacity-80 bg-black w-full h-full flex items-center justify-center
-      flex-col transition duration-200 gap-2 ${!isOpen ? "hidden" : ""}`}
+      flex-col transition duration-200 gap-2 pt-10 ${!isOpen ? "hidden" : ""}`}
     >
       <button
         onClick={() => {
