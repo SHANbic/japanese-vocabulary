@@ -1,12 +1,12 @@
 "use client";
 
-import styles from "./guess-box.module.css";
-import styles2 from "./box.module.css";
+import guessBoxStyles from "./guess-box.module.css";
+import boxStyles from "./box.module.css";
 import { useState, useRef, useEffect } from "react";
 import { obfuscateString } from "../../lib/utils";
 import type { IVocabulary } from "../types";
 
-const maxGuessLevel = 4;
+const MAX_GUESS_LEVEL = 4;
 
 export default function GuessBox({
   vocabulary,
@@ -39,7 +39,7 @@ export default function GuessBox({
   };
 
   const handleHelpBtnClick = (force = false) => {
-    if (!vocabulary[currentIndex] || guessLevel >= maxGuessLevel) return;
+    if (!vocabulary[currentIndex] || guessLevel >= MAX_GUESS_LEVEL) return;
     if (guessLevel === 0) {
       setGuessLevel(guessLevel + 1);
     } else if (guessLevel === 1) {
@@ -78,18 +78,18 @@ export default function GuessBox({
       if (translation && translation.current && translation.current.innerText) {
         translation.current.innerText = vocabulary[currentIndex]?.translation;
       }
-      setGuessLevel(maxGuessLevel);
+      setGuessLevel(MAX_GUESS_LEVEL);
     }
   };
 
   const handleNextBtnClick = () => {
     if (
       vocabulary.length - currentIndex - 1 === 0 &&
-      guessLevel === maxGuessLevel
+      guessLevel === MAX_GUESS_LEVEL
     ) {
       reset();
     } else {
-      if (guessLevel === maxGuessLevel) {
+      if (guessLevel === MAX_GUESS_LEVEL) {
         populateQuestion();
       } else {
         handleHelpBtnClick(true);
@@ -98,7 +98,7 @@ export default function GuessBox({
   };
 
   return (
-    <div className={styles2.box}>
+    <div className={boxStyles.box}>
       <div
         style={{
           display: "flex",
@@ -116,7 +116,7 @@ export default function GuessBox({
         </button>
         <p>
           plus que{" "}
-          <span id={styles.remainingQuestions}>
+          <span id={guessBoxStyles.remainingQuestions}>
             {(vocabulary.length - currentIndex).toString()}
           </span>
         </p>
@@ -124,56 +124,64 @@ export default function GuessBox({
       <p className="text-center text-lg font-bold my-4">
         Comprends-tu le sens de ceci?
       </p>
-      <>
-        <div className={styles.currentGuess}>
-          <p id={styles.kanji} className="h-10">
-            {vocabulary[currentIndex]?.kanji}
-          </p>
-          <p
-            id={styles.kana}
-            style={{ opacity: guessLevel >= 1 ? 1 : 0 }}
-            className="h-10"
-          >
-            {vocabulary[currentIndex]?.kana}
-          </p>
-          <p
-            className="h-10"
-            ref={translation}
-            id={styles.translation}
-            style={{ opacity: guessLevel >= 2 ? 1 : 0 }}
-          >
-            {vocabulary[currentIndex]?.translation}
-          </p>
-        </div>
 
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-between",
-            alignItems: "center",
-            gap: "2rem",
-            marginTop: "2rem",
-          }}
+      <div className={guessBoxStyles.currentGuess}>
+        <p id={guessBoxStyles.kanji} className="h-10">
+          {vocabulary[currentIndex]?.kanji}
+        </p>
+        <p
+          id={guessBoxStyles.kana}
+          style={{ opacity: guessLevel >= 1 ? 1 : 0 }}
+          className="h-10"
         >
-          <button
-            disabled={guessLevel === maxGuessLevel}
-            onClick={() => handleHelpBtnClick(false)}
-            className={`btn large ${
-              guessLevel === maxGuessLevel ? "disabled" : ""
-            }`}
-          >
-            👎
-          </button>
-          <button
-            onClick={() => {
-              handleNextBtnClick();
-            }}
-            className="next btn large"
-          >
-            {guessLevel === maxGuessLevel ? <span>👉</span> : <span>👍</span>}
-          </button>
-        </div>
-      </>
+          {vocabulary[currentIndex]?.kana}
+        </p>
+        <p
+          className="h-10"
+          ref={translation}
+          id={guessBoxStyles.translation}
+          style={{ opacity: guessLevel >= 2 ? 1 : 0 }}
+        >
+          {vocabulary[currentIndex]?.translation}
+        </p>
+      </div>
+
+      <div className="flex justify-between">
+        <p className="text-gray-400 text-sm">
+          {"Module " + vocabulary[currentIndex]?.module.slice(1)}
+        </p>
+        <p className="text-gray-400 text-sm">
+          {"Leçon " + vocabulary[currentIndex]?.lesson.slice(1)}
+        </p>
+      </div>
+
+      <div
+        style={{
+          display: "flex",
+          justifyContent: "space-between",
+          alignItems: "center",
+          gap: "2rem",
+          marginTop: "2rem",
+        }}
+      >
+        <button
+          disabled={guessLevel === MAX_GUESS_LEVEL}
+          onClick={() => handleHelpBtnClick(false)}
+          className={`btn large ${
+            guessLevel === MAX_GUESS_LEVEL ? "disabled" : ""
+          }`}
+        >
+          👎
+        </button>
+        <button
+          onClick={() => {
+            handleNextBtnClick();
+          }}
+          className="next btn large"
+        >
+          {guessLevel === MAX_GUESS_LEVEL ? <span>👉</span> : <span>👍</span>}
+        </button>
+      </div>
     </div>
   );
 }
