@@ -5,8 +5,7 @@
 @tailwind utilities;
 
 body {
-  background: url("https://da32ev14kd4yl.cloudfront.net/versioned/objectif-japon/fonds/fond-bandeau.jpg")
-    repeat;
+  background: url("/fond-bandeau.jpg") repeat;
 }
 
 a {

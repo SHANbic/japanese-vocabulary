@@ -38,6 +38,7 @@ export default function Dialog({
         alt="le livre Objectif Japon"
         width={500}
         height={500}
+        fetchPriority="high"
       />
       <Cta
         href="https://www.fnac.com/a21518987/Sophie-Thomas-Objectif-Japon"

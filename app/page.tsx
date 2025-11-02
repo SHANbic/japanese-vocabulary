@@ -20,7 +20,7 @@ export default function Home() {
           <Image
             src={sophie}
             alt="sophie-objectif-japon"
-            // loading={"eager"}
+            loading="eager"
             priority
           />
         </div>
