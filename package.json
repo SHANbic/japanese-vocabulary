@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "counterapi": "^2.1.2",
-    "next": "^15.3.1",
+    "next": "^15.3.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "server-only": "^0.0.1"
