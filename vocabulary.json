@@ -8898,7 +8898,486 @@
     "module": "m3",
     "lesson": "l13"
   },
-
+  {
+    "kanji": "挨拶する",
+    "kana": "あいさつする",
+    "translation": "saluer",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "遊び",
+    "kana": "あそび",
+    "translation": "jeu",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "彼方",
+    "kana": "あっち",
+    "translation": "ce côté-là (loin du locuteur et de l'interlocuteur)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "危ない",
+    "kana": "あぶない",
+    "translation": "dangereux",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "石",
+    "kana": "いし",
+    "translation": "pierre, roc",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "意味",
+    "kana": "いみ",
+    "translation": "signification, sens",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "嫌・否",
+    "kana": "いや",
+    "translation": "désagréable, déplaisant",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "薄い",
+    "kana": "うすい",
+    "translation": "mince, pâle (pour une couleur)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "お元気で",
+    "kana": "おげんきで",
+    "translation": "portez-vous bien, prends soin de toi",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "同じ",
+    "kana": "おなじ",
+    "translation": "identique, égal",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "お巡りさん",
+    "kana": "おまわりさん",
+    "translation": "policier (désigné de manière amicale)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "家庭",
+    "kana": "かてい",
+    "translation": "famille (sa), maison (sa)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "キログラム",
+    "translation": "kilogramme",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "キロメートル",
+    "translation": "kilomètre",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "クラス",
+    "translation": "classe",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "グラム",
+    "translation": "gramme",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "結構",
+    "kana": "けっこう",
+    "translation": "bien, merveilleux",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "結構です",
+    "kana": "けっこうです",
+    "translation": "c'est OK, raisonnable, ça me convient",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "交番",
+    "kana": "こうばん",
+    "translation": "petit poste de police",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "こんな",
+    "translation": "cette sorte de",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "作文",
+    "kana": "さくぶん",
+    "translation": "composition, essai (écrit), rédaction",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "失礼しました",
+    "kana": "しつれいしました",
+    "translation": "excusez-moi, je suis désolé",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "自分",
+    "kana": "じぶん",
+    "translation": "soi-même, elle-même, lui-même",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ずつ",
+    "translation": "chaque",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ストーブ",
+    "translation": "chauffage",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "スプーン",
+    "translation": "cuillère",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "生徒",
+    "kana": "せいと",
+    "translation": "élève",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "石鹸",
+    "kana": "せっけん",
+    "translation": "savon",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "背広",
+    "kana": "せびろ",
+    "translation": "costume d'affaire",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ゼロ",
+    "translation": "zéro",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "その他",
+    "kana": "そのほか",
+    "translation": "divers",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "側",
+    "kana": "そば",
+    "translation": "proche de, à côté de",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "其れでは",
+    "kana": "それでは",
+    "translation": "dans ce cas, alors, donc",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "大使館",
+    "kana": "たいしかん",
+    "translation": "ambassade",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "中",
+    "kana": "ちゅう",
+    "translation": "pendant",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "テープ",
+    "translation": "bande magnétique, cassette audio",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "テープレコーダー",
+    "translation": "magnétophone",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "手紙",
+    "kana": "てがみ",
+    "translation": "lettre",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "何方",
+    "kana": "どなた",
+    "translation": "qui ? (poli)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ナイフ",
+    "translation": "couteau",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ニュース",
+    "translation": "informations",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "半分",
+    "kana": "はんぶん",
+    "translation": "moitié",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "フォーク",
+    "translation": "fourchette",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "文章",
+    "kana": "ぶんしょう",
+    "translation": "phrase, style d'écriture, texte",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "辺",
+    "kana": "へん",
+    "translation": "côté (d'un triangle par ex.), les alentours",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "他",
+    "kana": "ほか",
+    "translation": "divers, autre",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "ポケット",
+    "translation": "poche",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "不味い",
+    "kana": "まずい",
+    "translation": "peu appétissant, sans goût",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "マッチ",
+    "translation": "match, allumette",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "丸い",
+    "kana": "まるい",
+    "translation": "rond, circulaire",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "円い",
+    "kana": "まるい",
+    "translation": "rond, circulaire",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "もしもし",
+    "translation": "Allo (au téléphone)",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "勿論",
+    "kana": "もちろん",
+    "translation": "bien sûr, évidemment",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "門",
+    "kana": "もん",
+    "translation": "porte",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "八百屋",
+    "kana": "やおや",
+    "translation": "maraîcher, marchand de fruits et légumes",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "夕方",
+    "kana": "ゆうがた",
+    "translation": "soir, soirée",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "洋服",
+    "kana": "ようふく",
+    "translation": "vêtements occidentaux",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "立派",
+    "kana": "りっぱ",
+    "translation": "magnifique, splendide, impressionnant",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "留学生",
+    "kana": "りゅうがくせい",
+    "translation": "étudiant venant de l'étranger",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
+  {
+    "kanji": "",
+    "kana": "レコード",
+    "translation": "disque (de musique), record",
+    "module": "m4",
+    "lesson": "l99",
+    "special": "JLPT5"
+  },
   {
     "kanji": "挨拶します",
     "kana": "あいさつします",

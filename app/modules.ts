@@ -33,6 +33,7 @@ export const modules = [
   {
     label: "Module 4",
     options: [
+      { value: "l99", text: "JLPT - vocabulaire complémentaire" },
       { value: "l14", text: "Leçon 14" },
       // { value: "m3", text: "Toutes les leçons du module 3" },
     ],

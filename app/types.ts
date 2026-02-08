@@ -4,6 +4,7 @@ export interface IVocabulary {
   translation: string;
   lesson: string;
   module: string;
+  special?: string;
 }
 
 export interface IOptions {

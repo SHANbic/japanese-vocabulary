@@ -47,7 +47,7 @@ export default function GuessBox({
         translation.current.innerText = vocabulary[currentIndex].translation
           .split("")
           .map((char, index) =>
-            index !== 0 && /[a-zA-Z0-9]/.test(char) ? "-" : char
+            index !== 0 && /[a-zA-Z0-9]/.test(char) ? "-" : char,
           )
           .join("");
       }
@@ -56,7 +56,7 @@ export default function GuessBox({
     } else if (guessLevel === 2) {
       if (translation && translation.current && translation.current.innerText) {
         translation.current.innerText = obfuscateString(
-          vocabulary[currentIndex].translation
+          vocabulary[currentIndex].translation,
         );
       }
       setGuessLevel(guessLevel + 1);
@@ -71,7 +71,7 @@ export default function GuessBox({
         translation.current.innerText = vocabulary[currentIndex].translation
           .split("")
           .map((char, index) =>
-            index !== 0 && /[a-zA-Z0-9]/.test(char) ? "-" : char
+            index !== 0 && /[a-zA-Z0-9]/.test(char) ? "-" : char,
           )
           .join("");
       }
@@ -150,9 +150,15 @@ export default function GuessBox({
         <p className="text-gray-400 text-sm">
           {"Module " + vocabulary[currentIndex]?.module.slice(1)}
         </p>
-        <p className="text-gray-400 text-sm">
-          {"Leçon " + vocabulary[currentIndex]?.lesson.slice(1)}
-        </p>
+        {vocabulary[currentIndex]?.special ? (
+          <p className="text-gray-400 text-sm">
+            {vocabulary[currentIndex].special}
+          </p>
+        ) : (
+          <p className="text-gray-400 text-sm">
+            {"Leçon " + vocabulary[currentIndex]?.lesson.slice(1)}
+          </p>
+        )}
       </div>
 
       <div
