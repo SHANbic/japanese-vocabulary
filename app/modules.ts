@@ -31,6 +31,13 @@ export const modules = [
     ],
   },
   {
+    label: "Module 4",
+    options: [
+      { value: "l14", text: "Leçon 14" },
+      // { value: "m3", text: "Toutes les leçons du module 3" },
+    ],
+  },
+  {
     label: "Objectif Japon",
     options: [{ value: "all", text: "Tous les modules!" }],
   },

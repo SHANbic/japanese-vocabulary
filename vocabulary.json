@@ -310,7 +310,7 @@
   {
     "kanji": "方",
     "kana": "かた",
-    "translation": "Version polie de 人（ひと）",
+    "translation": "Version polie de 人 (ひと)",
     "module": "m1",
     "lesson": "l1"
   },
@@ -7757,7 +7757,7 @@
     "lesson": "l10"
   },
   {
-    "kanji": "呼ぶマス",
+    "kanji": "呼びます",
     "kana": "よびます",
     "translation": "Appeler (qqn)",
     "module": "m3",
@@ -7842,21 +7842,21 @@
   },
   {
     "kanji": "(に) 乗り換えます",
-    "kana": "（に）のりかえます",
+    "kana": "(に)のりかえます",
     "translation": "Changer (de véhicule)",
     "module": "m3",
     "lesson": "l11"
   },
   {
-    "kanji": "(に) 乗ります",
-    "kana": "（に）のります",
+    "kanji": "(に)乗ります",
+    "kana": "(に)のります",
     "translation": "Monter (dans un véhicule)",
     "module": "m3",
     "lesson": "l11"
   },
   {
     "kanji": "(を)降ります",
-    "kana": "（を）おります",
+    "kana": "(を)おります",
     "translation": "Descendre (d'un véhicule)",
     "module": "m3",
     "lesson": "l11"
@@ -8066,7 +8066,7 @@
   },
   {
     "kanji": "次(の)",
-    "kana": "つぎ（の）",
+    "kana": "つぎ(の)",
     "translation": "Le prochain, le suivant",
     "module": "m3",
     "lesson": "l11"
@@ -8675,8 +8675,8 @@
     "lesson": "l13"
   },
   {
-    "kanji": "空 （の）",
-    "kana": "から（の）",
+    "kanji": "空(の)",
+    "kana": "から(の)",
     "translation": "Vide",
     "module": "m3",
     "lesson": "l13"
@@ -8897,5 +8897,548 @@
     "translation": "Particule de comparaison (par rapport à)",
     "module": "m3",
     "lesson": "l13"
+  },
+
+  {
+    "kanji": "挨拶します",
+    "kana": "あいさつします",
+    "translation": "Saluer",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "あげます",
+    "translation": "Donner",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "translation": "Être occupé",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "急ぎます",
+    "kana": "いそぎます",
+    "translation": "Se dépêcher",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "一度",
+    "kana": "いちど",
+    "translation": "Une fois",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "一緒に",
+    "kana": "いっしょに",
+    "translation": "Ensemble",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "一緒に行きませんか。",
+    "kana": "いっしょにいきませんか。",
+    "translation": "Est-ce qu'on n'irait pas ensemble ?",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "一緒に食べませんか。",
+    "kana": "いっしょにたべませんか。",
+    "translation": "Est-ce qu'on ne mangerait pas ensemble ?",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "今まで",
+    "kana": "いままで",
+    "translation": "Jusqu'à maintenant",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "要ります",
+    "kana": "いります",
+    "translation": "Avoir besoin de",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "動きます",
+    "kana": "うごきます",
+    "translation": "Bouger",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "馬",
+    "kana": "うま",
+    "translation": "Cheval",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "馬に乗ります",
+    "kana": "うまにのります",
+    "translation": "Monter à cheval",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "うれしい",
+    "translation": "Content, heureux",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "ええ、行きましょう!",
+    "kana": "ええ、いきましょう！",
+    "translation": "Oui, allons-y !",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "ええ、食べましょう!",
+    "kana": "ええ、たべましょう！",
+    "translation": "Oui, mangeons !",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "選びます",
+    "kana": "えらびます",
+    "translation": "Choisir",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "怒ります",
+    "kana": "おこります",
+    "translation": "Se mettre en colère",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "押します",
+    "kana": "おします",
+    "translation": "Pousser, presser",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "オッス！",
+    "translation": "Hey ! (manière familière de saluer)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "会社を休みます",
+    "kana": "かいしゃをやすみます",
+    "translation": "S'absenter de l'entreprise (prendre un congé)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "風邪",
+    "kana": "かぜ",
+    "translation": "Le rhume",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "風邪を引きます",
+    "kana": "かぜをひきます",
+    "translation": "Attraper un rhume, attraper froid",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "勝ちます",
+    "kana": "かちます",
+    "translation": "Gagner",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "辛い",
+    "kana": "からい",
+    "translation": "Piquant, relevé, pimenté",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "借ります",
+    "kana": "かります",
+    "translation": "Emprunter",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "カレーライス",
+    "translation": "Riz au curry",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "今日まで",
+    "kana": "きょうまで",
+    "translation": "Jusqu'à aujourd'hui",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "気を付けて (ください)",
+    "kana": "きをつけて(ください)",
+    "translation": "Fais attention à toi, prend soin de toi",
+    "module": "m4",
+    "lesson": "l14"
+  },
+
+  {
+    "kanji": "",
+    "kana": "けど",
+    "translation": "Equivalent neutre de が (mais)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "公園を散歩します",
+    "kana": "こうえんをさんぽします",
+    "translation": "Faire une promenade dans le parc",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "コーヒー",
+    "translation": "Café (la boisson)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "困ります",
+    "kana": "こまります",
+    "translation": "Être en difficulté",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "最近",
+    "kana": "さいきん",
+    "translation": "Récemment, ces derniers temps",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "調べます",
+    "kana": "しらべます",
+    "translation": "Chercher (une information)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "すごい",
+    "translation": "Extraordinaire, incroyable",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "洗濯",
+    "kana": "せんたく",
+    "translation": "La lessive",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "洗濯します",
+    "kana": "せんたくします",
+    "translation": "Faire la lessive",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "掃除",
+    "kana": "そうじ",
+    "translation": "Le ménage",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "掃除します",
+    "kana": "そうじします",
+    "translation": "Faire le ménage",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "そっか",
+    "translation": "Forme familière de そうですか (Ah bon)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "大丈夫",
+    "kana": "だいじょうぶ",
+    "translation": "Ca va, pas de problème, c'est OK",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "大変",
+    "kana": "たいへん",
+    "translation": "Pénible, difficile",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "楽しみ (している)",
+    "kana": "たのしみ (している)",
+    "translation": "J'ai hâte, je me réjouis d'avance",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "たまに",
+    "translation": "Parfois",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "ちょっと",
+    "translation": "Un peu",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "着きます",
+    "kana": "つきます",
+    "translation": "Arriver",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "ディズニーランド",
+    "translation": "Disneyland",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "丁寧",
+    "kana": "ていねい",
+    "translation": "Poli",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "丁寧形",
+    "kana": "ていねいけい",
+    "translation": "\"Style poli\"",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "同僚",
+    "kana": "どうりょう",
+    "translation": "Collègue",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "直します",
+    "kana": "なおします",
+    "translation": "Réparer, corriger",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "なるほど",
+    "translation": "Je vois...",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "何で",
+    "kana": "なんで？",
+    "translation": "Pourquoi ? Dans quel but ?",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "日記",
+    "kana": "にっき",
+    "translation": "Journal intime",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "脱ぎます",
+    "kana": "ぬぎます",
+    "translation": "Se déshabiller",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "ねえねえ。",
+    "translation": "Eh dis...",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "はさみ",
+    "translation": "Des ciseaux",
+    "module": "m4",
+    "lesson": "l14"
+  },
+
+  {
+    "kanji": "早く",
+    "kana": "はやく",
+    "translation": "Rapidement, tôt",
+    "module": "m4",
+    "lesson": "l14"
+  },
+
+  {
+    "kanji": "久しぶり",
+    "kana": "ひさしぶり！",
+    "translation": "Ca fait longtemps !",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "暇",
+    "kana": "ひま",
+    "translation": "Être libre, avoir du temps libre",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "富士山",
+    "kana": "ふじさん",
+    "translation": "Le Mont Fuji",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "富士山に登ります",
+    "kana": "ふじさんにのぼります",
+    "translation": "Escalader le Mont Fuji",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "普通",
+    "kana": "ふつう",
+    "translation": "Normal, ordinaire, courant",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "普通形",
+    "kana": "ふつうけい",
+    "translation": "\"Style neutre\"",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "ほんとう？",
+    "translation": "Vraiment ?",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "負けます",
+    "kana": "まけます",
+    "translation": "Perdre (le contraire de gagner)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "めっちゃ",
+    "translation": "Très (familier)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "戻ります",
+    "kana": "もどります",
+    "translation": "Retourner, revenir",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "野球",
+    "kana": "やきゅう",
+    "translation": "Baseball",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "休みましょう",
+    "kana": "やすみましょう",
+    "translation": "Reposons-nous",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "良かった",
+    "kana": "よかった！",
+    "translation": "Ouf ! Tant mieux !",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "夜",
+    "kana": "よる",
+    "translation": "La nuit, le soir (plutôt tard)",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "",
+    "kana": "ライブ",
+    "translation": "Concert, live",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "旅行します",
+    "kana": "りょこうします",
+    "translation": "Voyager, faire un voyage",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "林檎",
+    "kana": "りんご",
+    "translation": "Une pomme",
+    "module": "m4",
+    "lesson": "l14"
+  },
+  {
+    "kanji": "笑います",
+    "kana": "わらいます",
+    "translation": "Rire",
+    "module": "m4",
+    "lesson": "l14"
   }
 ]
