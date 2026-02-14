@@ -147,17 +147,22 @@ export default function GuessBox({
       </div>
 
       <div className="flex justify-between">
-        <p className="text-gray-400 text-sm">
-          {"Module " + vocabulary[currentIndex]?.module.slice(1)}
-        </p>
         {vocabulary[currentIndex]?.special ? (
-          <p className="text-gray-400 text-sm">
-            {vocabulary[currentIndex].special}
-          </p>
+          <>
+            <p className="text-gray-400 text-sm">Extra</p>
+            <p className="text-gray-400 text-sm">
+              {vocabulary[currentIndex].special}
+            </p>
+          </>
         ) : (
-          <p className="text-gray-400 text-sm">
-            {"Leçon " + vocabulary[currentIndex]?.lesson.slice(1)}
-          </p>
+          <>
+            <p className="text-gray-400 text-sm">
+              {"Module " + vocabulary[currentIndex]?.module.slice(1)}
+            </p>
+            <p className="text-gray-400 text-sm">
+              {"Leçon " + vocabulary[currentIndex]?.lesson.slice(1)}
+            </p>
+          </>
         )}
       </div>
 

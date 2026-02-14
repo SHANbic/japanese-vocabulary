@@ -8902,7 +8902,7 @@
     "kanji": "挨拶する",
     "kana": "あいさつする",
     "translation": "saluer",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8910,7 +8910,7 @@
     "kanji": "遊び",
     "kana": "あそび",
     "translation": "jeu",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8918,7 +8918,7 @@
     "kanji": "彼方",
     "kana": "あっち",
     "translation": "ce côté-là (loin du locuteur et de l'interlocuteur)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8926,7 +8926,7 @@
     "kanji": "危ない",
     "kana": "あぶない",
     "translation": "dangereux",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8934,7 +8934,7 @@
     "kanji": "石",
     "kana": "いし",
     "translation": "pierre, roc",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8942,7 +8942,7 @@
     "kanji": "意味",
     "kana": "いみ",
     "translation": "signification, sens",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8950,7 +8950,7 @@
     "kanji": "嫌・否",
     "kana": "いや",
     "translation": "désagréable, déplaisant",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8958,7 +8958,7 @@
     "kanji": "薄い",
     "kana": "うすい",
     "translation": "mince, pâle (pour une couleur)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8966,7 +8966,7 @@
     "kanji": "お元気で",
     "kana": "おげんきで",
     "translation": "portez-vous bien, prends soin de toi",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8974,7 +8974,7 @@
     "kanji": "同じ",
     "kana": "おなじ",
     "translation": "identique, égal",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8982,7 +8982,7 @@
     "kanji": "お巡りさん",
     "kana": "おまわりさん",
     "translation": "policier (désigné de manière amicale)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8990,7 +8990,7 @@
     "kanji": "家庭",
     "kana": "かてい",
     "translation": "famille (sa), maison (sa)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -8998,7 +8998,7 @@
     "kanji": "",
     "kana": "キログラム",
     "translation": "kilogramme",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9006,7 +9006,7 @@
     "kanji": "",
     "kana": "キロメートル",
     "translation": "kilomètre",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9014,7 +9014,7 @@
     "kanji": "",
     "kana": "クラス",
     "translation": "classe",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9022,7 +9022,7 @@
     "kanji": "",
     "kana": "グラム",
     "translation": "gramme",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9030,7 +9030,7 @@
     "kanji": "結構",
     "kana": "けっこう",
     "translation": "bien, merveilleux",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9038,7 +9038,7 @@
     "kanji": "結構です",
     "kana": "けっこうです",
     "translation": "c'est OK, raisonnable, ça me convient",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9046,7 +9046,7 @@
     "kanji": "交番",
     "kana": "こうばん",
     "translation": "petit poste de police",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9054,7 +9054,7 @@
     "kanji": "",
     "kana": "こんな",
     "translation": "cette sorte de",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9062,7 +9062,7 @@
     "kanji": "作文",
     "kana": "さくぶん",
     "translation": "composition, essai (écrit), rédaction",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9070,7 +9070,7 @@
     "kanji": "失礼しました",
     "kana": "しつれいしました",
     "translation": "excusez-moi, je suis désolé",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9078,7 +9078,7 @@
     "kanji": "自分",
     "kana": "じぶん",
     "translation": "soi-même, elle-même, lui-même",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9086,7 +9086,7 @@
     "kanji": "",
     "kana": "ずつ",
     "translation": "chaque",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9094,7 +9094,7 @@
     "kanji": "",
     "kana": "ストーブ",
     "translation": "chauffage",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9102,7 +9102,7 @@
     "kanji": "",
     "kana": "スプーン",
     "translation": "cuillère",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9110,7 +9110,7 @@
     "kanji": "生徒",
     "kana": "せいと",
     "translation": "élève",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9118,7 +9118,7 @@
     "kanji": "石鹸",
     "kana": "せっけん",
     "translation": "savon",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9126,7 +9126,7 @@
     "kanji": "背広",
     "kana": "せびろ",
     "translation": "costume d'affaire",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9134,7 +9134,7 @@
     "kanji": "",
     "kana": "ゼロ",
     "translation": "zéro",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9142,7 +9142,7 @@
     "kanji": "その他",
     "kana": "そのほか",
     "translation": "divers",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9150,7 +9150,7 @@
     "kanji": "側",
     "kana": "そば",
     "translation": "proche de, à côté de",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9158,7 +9158,7 @@
     "kanji": "其れでは",
     "kana": "それでは",
     "translation": "dans ce cas, alors, donc",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9166,7 +9166,7 @@
     "kanji": "大使館",
     "kana": "たいしかん",
     "translation": "ambassade",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9174,7 +9174,7 @@
     "kanji": "中",
     "kana": "ちゅう",
     "translation": "pendant",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9182,7 +9182,7 @@
     "kanji": "",
     "kana": "テープ",
     "translation": "bande magnétique, cassette audio",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9190,7 +9190,7 @@
     "kanji": "",
     "kana": "テープレコーダー",
     "translation": "magnétophone",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9198,7 +9198,7 @@
     "kanji": "手紙",
     "kana": "てがみ",
     "translation": "lettre",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9206,7 +9206,7 @@
     "kanji": "何方",
     "kana": "どなた",
     "translation": "qui ? (poli)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9214,7 +9214,7 @@
     "kanji": "",
     "kana": "ナイフ",
     "translation": "couteau",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9222,7 +9222,7 @@
     "kanji": "",
     "kana": "ニュース",
     "translation": "informations",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9230,7 +9230,7 @@
     "kanji": "半分",
     "kana": "はんぶん",
     "translation": "moitié",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9238,7 +9238,7 @@
     "kanji": "",
     "kana": "フォーク",
     "translation": "fourchette",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9246,7 +9246,7 @@
     "kanji": "文章",
     "kana": "ぶんしょう",
     "translation": "phrase, style d'écriture, texte",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9254,7 +9254,7 @@
     "kanji": "辺",
     "kana": "へん",
     "translation": "côté (d'un triangle par ex.), les alentours",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9262,7 +9262,7 @@
     "kanji": "他",
     "kana": "ほか",
     "translation": "divers, autre",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9270,7 +9270,7 @@
     "kanji": "",
     "kana": "ポケット",
     "translation": "poche",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9278,7 +9278,7 @@
     "kanji": "不味い",
     "kana": "まずい",
     "translation": "peu appétissant, sans goût",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9286,7 +9286,7 @@
     "kanji": "",
     "kana": "マッチ",
     "translation": "match, allumette",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9294,7 +9294,7 @@
     "kanji": "丸い",
     "kana": "まるい",
     "translation": "rond, circulaire",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9302,7 +9302,7 @@
     "kanji": "円い",
     "kana": "まるい",
     "translation": "rond, circulaire",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9310,7 +9310,7 @@
     "kanji": "",
     "kana": "もしもし",
     "translation": "Allo (au téléphone)",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9318,7 +9318,7 @@
     "kanji": "勿論",
     "kana": "もちろん",
     "translation": "bien sûr, évidemment",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9326,7 +9326,7 @@
     "kanji": "門",
     "kana": "もん",
     "translation": "porte",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9334,7 +9334,7 @@
     "kanji": "八百屋",
     "kana": "やおや",
     "translation": "maraîcher, marchand de fruits et légumes",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9342,7 +9342,7 @@
     "kanji": "夕方",
     "kana": "ゆうがた",
     "translation": "soir, soirée",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9350,7 +9350,7 @@
     "kanji": "洋服",
     "kana": "ようふく",
     "translation": "vêtements occidentaux",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9358,7 +9358,7 @@
     "kanji": "立派",
     "kana": "りっぱ",
     "translation": "magnifique, splendide, impressionnant",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9366,7 +9366,7 @@
     "kanji": "留学生",
     "kana": "りゅうがくせい",
     "translation": "étudiant venant de l'étranger",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9374,7 +9374,7 @@
     "kanji": "",
     "kana": "レコード",
     "translation": "disque (de musique), record",
-    "module": "m4",
+    "module": "m5",
     "lesson": "l99",
     "special": "JLPT5"
   },
@@ -9919,5 +9919,434 @@
     "translation": "Rire",
     "module": "m4",
     "lesson": "l14"
+  },
+
+  {
+    "kanji": "[お金を]払う",
+    "kana": "[お金を]はらう",
+    "translation": "Payer",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "Verbe - ないでください",
+    "translation": "Ne faites pas ça svp",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "Verbe - なくてもいいです",
+    "translation": "Ce n'est pas la peine de faire ça",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "Verbe - なければなりません",
+    "translation": "Être obligé de faire ça",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "会います",
+    "kana": "あいます",
+    "translation": "Rencontrer",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "アシスタント",
+    "translation": "Assistant(e)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "言う",
+    "kana": "いう",
+    "translation": "Dire",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "以上です。",
+    "kana": "いじょうです。",
+    "translation": "C'est tout. (formel)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "急ぐ",
+    "kana": "いそぐ",
+    "translation": "Se dépêcher",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "いつもお世話になります。",
+    "kana": "いつもおせわになります。",
+    "translation": "Formule à écrire au début d'un mail pro",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "遠慮なく",
+    "kana": "えんりょなく",
+    "translation": "Sans hésitation",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "お疲れ様です。",
+    "kana": "おつかれさまです。",
+    "translation": "S'utilise à la fin de la journée ou d'un projet",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "会議",
+    "kana": "かいぎ",
+    "translation": "Une réunion",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "translation": "Entreprise",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "会社を辞める",
+    "kana": "かいしゃをやめる",
+    "translation": "Quitter l'entreprise, démissionner",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "かえったとき",
+    "translation": "Quand je suis rentré(e)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "確認する",
+    "kana": "かくにんする",
+    "translation": "Vérifier, confirmer",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "課⾧",
+    "kana": "かちょう",
+    "translation": "Chef de bureau/service",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "消す",
+    "kana": "けす",
+    "translation": "Eteindre",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "声",
+    "kana": "こえ",
+    "translation": "La voix",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "ご苦労様です。",
+    "kana": "ごくろうさまです。",
+    "translation": "S'utilise pour féliciter les efforts d'un subalterne plus bas que nous hiérarchiquement",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "言葉",
+    "kana": "ことば",
+    "translation": "Mot, langage",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "コピーする",
+    "translation": "Faire des photocopies",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "最高",
+    "kana": "さいこう",
+    "translation": "Le meilleur, le plus élevé, le maximum",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "寂しい",
+    "kana": "さびしい",
+    "translation": "Triste, seul (lonely)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "残業",
+    "kana": "ざんぎょう",
+    "translation": "Heures supplémentaires",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "残業する",
+    "kana": "ざんぎょうする",
+    "translation": "Faire des heures supplémentaires",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "しかし",
+    "translation": "Toutefois, mais",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "仕事",
+    "kana": "しごと",
+    "translation": "Le travail",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "失礼します。",
+    "kana": "しつれいします。",
+    "translation": "S'utilise comme すみません en + poli",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "事務所",
+    "kana": "じむしょ",
+    "translation": "Le bureau (lieu)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "社⾧",
+    "kana": "しゃちょう",
+    "translation": "PDG",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "出張",
+    "kana": "しゅっちょう",
+    "translation": "Un voyage d'affaires",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "出張する",
+    "kana": "しゅっちょうする",
+    "translation": "Faire un voyage d'affaires",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "心配する",
+    "kana": "しんぱいする",
+    "translation": "Se faire du souci",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "直ぐ[に]",
+    "kana": "すぐ[に]",
+    "translation": "Immédiatement",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "その上で",
+    "kana": "そのうえで",
+    "translation": "En plus de cela",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "それでは",
+    "translation": "Dans ce cas, alors",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "チーム",
+    "translation": "Une team, une équipe",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "チェックする",
+    "translation": "Vérifier",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "点ける",
+    "kana": "つける",
+    "translation": "Allumer",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "では",
+    "translation": "Et bien, donc",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "電話",
+    "kana": "でんわ",
+    "translation": "Téléphone",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "電話番号",
+    "kana": "でんわばんごう",
+    "translation": "Un numéro de téléphone",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "眠い",
+    "kana": "ねむい",
+    "translation": "Fatigué, somnolant (sleepy)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "箱",
+    "kana": "はこ",
+    "translation": "Une boîte",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "話す",
+    "kana": "はなす",
+    "translation": "Parler",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "病院",
+    "kana": "びょういん",
+    "translation": "L'hôpital",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "ファイル",
+    "translation": "Un fichier",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "部⾧",
+    "kana": "ぶちょう",
+    "translation": "Chef de département",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "ボタンをおしたとき",
+    "translation": "Quand j'ai pressé sur le bouton",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "本当に",
+    "kana": "ほんとうに",
+    "translation": "Vraiment",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "また",
+    "translation": "A nouveau",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "ミーティング",
+    "translation": "Un meeting",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "皆さん",
+    "kana": "みなさん",
+    "translation": "Tout le monde (quand on s'adresse à un groupe de gens)",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "皆",
+    "kana": "みんな",
+    "translation": "Tout le monde, les gens",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "",
+    "kana": "もっと",
+    "translation": "Encore plus, davantage",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "呼ぶ",
+    "kana": "よぶ",
+    "translation": "Appeler",
+    "module": "m4",
+    "lesson": "l15"
+  },
+
+  {
+    "kanji": "",
+    "kana": "レポート",
+    "translation": "Un rapport",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "連絡する",
+    "kana": "れんらくする",
+    "translation": "Contacter",
+    "module": "m4",
+    "lesson": "l15"
+  },
+  {
+    "kanji": "分からないことがあれば",
+    "kana": "わからないことがあれば",
+    "translation": "S'il y a quelque chose que vous ne comprenez pas...",
+    "module": "m4",
+    "lesson": "l15"
   }
 ]

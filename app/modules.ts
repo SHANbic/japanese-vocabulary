@@ -33,10 +33,14 @@ export const modules = [
   {
     label: "Module 4",
     options: [
-      { value: "l99", text: "JLPT - vocabulaire complémentaire" },
       { value: "l14", text: "Leçon 14" },
-      // { value: "m3", text: "Toutes les leçons du module 3" },
+      { value: "l15", text: "Leçon 15" },
+      { value: "m4", text: "Toutes les leçons du module 4" },
     ],
+  },
+  {
+    label: "Extra",
+    options: [{ value: "l99", text: "JLPT - vocabulaire complémentaire" }],
   },
   {
     label: "Objectif Japon",
