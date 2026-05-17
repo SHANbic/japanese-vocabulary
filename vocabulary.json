@@ -10348,5 +10348,560 @@
     "translation": "S'il y a quelque chose que vous ne comprenez pas...",
     "module": "m4",
     "lesson": "l15"
+  },
+
+  {
+    "kanji": "[お]祈り",
+    "kana": "[お] いのり",
+    "translation": "Une prière",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "[お]祈りをする",
+    "kana": "[お]いのりをする",
+    "translation": "Faire une prière",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "[お]皿",
+    "kana": "[お]さら",
+    "translation": "Une assiette",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "あげる",
+    "translation": "Donner",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "いつか",
+    "kana": "いつか",
+    "translation": "Un jour",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "行って来ます",
+    "kana": "いってきます",
+    "translation": "J'y vais ! (s'utilise quand on quitte le foyer)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "行ってらっしゃい",
+    "kana": "いってらっしゃい",
+    "translation": "Bon départ ! (s'utilise vis-à-vis de quelqu'un qui quitte le foyer tandis que nous y restons)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "運転する",
+    "kana": "うんてんする",
+    "translation": "Conduire",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "エアコンを消す",
+    "kana": "エアコンをけす",
+    "translation": "Eteindre la clim",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "お帰り[なさい]",
+    "kana": "おかえり[なさい]",
+    "translation": "Bon retour ! (s'utilise pour souhaiter un bon retour à la maison à quelqu'un qui vient de rentrer tandis que nous y sommes déjà)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "お菓子",
+    "kana": "おかし",
+    "translation": "Sucreries, gâteau",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "お大事に",
+    "kana": "おだいじに",
+    "translation": "Bon rétablissement",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "おめでとう[ございます]",
+    "translation": "Félicitations !",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "家具",
+    "kana": "かぐ",
+    "translation": "Meuble",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "学生",
+    "kana": "がくせい",
+    "translation": "Etudiant",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "家具を作る",
+    "kana": "かぐをつくる",
+    "translation": "Fabriquer des meubles",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "貸す",
+    "kana": "かす",
+    "translation": "Prêter",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "学校",
+    "kana": "がっこう",
+    "translation": "Ecole",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "家内",
+    "kana": "かない",
+    "translation": "Ma femme (à éviter car connotation sexiste)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "花瓶",
+    "kana": "かびん",
+    "translation": "Vase",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "借りる",
+    "kana": "かりる",
+    "translation": "Emprunter",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "頑張る",
+    "kana": "がんばる",
+    "translation": "Faire de son mieux",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "くれる",
+    "translation": "Donner (à moi)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ケーキ",
+    "translation": "Gâteau",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "景色",
+    "kana": "けしき",
+    "translation": "Paysage",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "高校",
+    "kana": "こうこう",
+    "translation": "Lycée",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "高校生",
+    "kana": "こうこうせい",
+    "translation": "Lycéen",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "コップ",
+    "translation": "Verre, gobelet",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "最初",
+    "kana": "さいしょ",
+    "translation": "Le début",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "雑誌",
+    "kana": "ざっし",
+    "translation": "Magazine",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "砂糖",
+    "kana": "さとう",
+    "translation": "Sucre",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "塩",
+    "kana": "しお",
+    "translation": "Sel",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "試験",
+    "kana": "しけん",
+    "translation": "Un examen",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "質問",
+    "kana": "しつもん",
+    "translation": "Question",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "質問する",
+    "kana": "しつもんする",
+    "translation": "Poser une question",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "写真を撮る",
+    "kana": "しゃしんをとる",
+    "translation": "Prendre une photo",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "授業",
+    "kana": "じゅぎょう",
+    "translation": "Cours, classe",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "小学生",
+    "kana": "しょうがくせい",
+    "translation": "Elève de primaire",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "小学校",
+    "kana": "しょうがっこう",
+    "translation": "Ecole primaire",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "醤油",
+    "kana": "しょうゆ",
+    "translation": "Sauce soja",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ジョギング",
+    "translation": "Jogging",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "スリッパ",
+    "translation": "Pantoufle, chausson",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "説明",
+    "kana": "せつめい",
+    "translation": "Explications",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "説明を聞く",
+    "kana": "せつめいをきく",
+    "translation": "Ecouter les explications",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "卒業する",
+    "kana": "そつぎょうする",
+    "translation": "Terminer ses études, être diplômé",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "大学",
+    "kana": "だいがく",
+    "translation": "Université",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "大学生",
+    "kana": "だいがくせい",
+    "translation": "Etudiant à l'université",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "タクシーを呼ぶ",
+    "kana": "タクシーをよぶ",
+    "translation": "Appeler un taxi",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ただいま",
+    "translation": "Je suis rentré(e) ! (s'utilise quand on rentre à lamaison)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "卵焼き",
+    "kana": "たまごやき",
+    "translation": "Omelette japonaise",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "誰か",
+    "kana": "だれか",
+    "translation": "Quelqu'un",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "段々",
+    "kana": "だんだん",
+    "translation": "Petit à petit, graduellement",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "旦那さん",
+    "kana": "だんなさん",
+    "translation": "Votre mari",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "地図を書く",
+    "kana": "ちずをかく",
+    "translation": "Dessiner un plan",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "茶碗",
+    "kana": "ちゃわん",
+    "translation": "Bol à thé ou à riz",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "中学生",
+    "kana": "ちゅうがくせい",
+    "translation": "Collégien",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "中学校",
+    "kana": "ちゅうがっこう",
+    "translation": "Collège",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "出会える",
+    "kana": "であえる",
+    "translation": "Rencontrer (pour la 1ère fois)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "テスト",
+    "translation": "Un test, un contrôle",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "電気を点ける",
+    "kana": "でんきをつける",
+    "translation": "Allumer la lumière",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "電話",
+    "kana": "でんわ",
+    "translation": "Téléphone",
+    "module": "m4",
+    "lesson": "l16"
+  },
+
+  {
+    "kanji": "電話をかける ou 電話する",
+    "kana": "でんわをかける ou でんわする",
+    "translation": "Téléphoner",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "独身",
+    "kana": "どくしん",
+    "translation": "Célibataire (non marié)",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "特に",
+    "kana": "とくに",
+    "translation": "Particulièrement, notamment",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "どこか",
+    "translation": "Quelque part",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "中々",
+    "kana": "なかなか (+ négatif)",
+    "translation": "Difficilement",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "何か",
+    "kana": "なにか",
+    "translation": "Quelque chose",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "縫いぐるみ",
+    "kana": "ぬいぐるみ",
+    "translation": "Peluche",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "パーティー",
+    "translation": "Une fête",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "灰皿",
+    "kana": "はいざら",
+    "translation": "Cendrier",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "バター",
+    "translation": "Beurre",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "話",
+    "kana": "はなし",
+    "translation": "Une histoire, un récit",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ハンカチ",
+    "translation": "Mouchoir",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ページ",
+    "translation": "Une page",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ホームステイ",
+    "translation": "Homestay, famille d'accueil",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "ボールペン",
+    "translation": "Un stylo-bille",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "昔話",
+    "kana": "むかしばなし",
+    "translation": "Une histoire ancienne, un vieux conte",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "",
+    "kana": "もらう",
+    "translation": "Recevoir",
+    "module": "m4",
+    "lesson": "l16"
+  },
+  {
+    "kanji": "夜",
+    "kana": "よる",
+    "translation": "La nuit, le soir",
+    "module": "m4",
+    "lesson": "l16"
   }
 ]

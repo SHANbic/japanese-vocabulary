@@ -35,6 +35,7 @@ export const modules = [
     options: [
       { value: "l14", text: "Leçon 14" },
       { value: "l15", text: "Leçon 15" },
+      { value: "l16", text: "Leçon 16" },
       { value: "m4", text: "Toutes les leçons du module 4" },
     ],
   },
